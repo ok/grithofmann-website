@@ -1,0 +1,24 @@
+{
+  "name": "grithofmann-website",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/ok/grithofmann-website#readme",
+  "author": "Oliver Kohl",
+  "license": "MIT",
+  "type": "module",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ok/grithofmann-website.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ok/grithofmann-website/issues"
+  },
+  "dependencies": {
+    "@11ty/eleventy": "^3.0.0",
+    "bulma-start": "^0.0.5"
+  }
+}
