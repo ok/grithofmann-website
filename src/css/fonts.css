@@ -1,0 +1,31 @@
+@font-face {
+  font-family: 'b_futura_boldbold';
+  src: url('futura-bold-webfont.woff2') format('woff2'),
+       url('futura-bold-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+@font-face {
+  font-family: 'futura_bookregular';
+  src: url('futura-book-webfont.woff2') format('woff2'),
+       url('futura-book-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+@font-face {
+  font-family: 'futuralight';
+  src: url('futurabt-light-webfont.woff2') format('woff2'),
+       url('futurabt-light-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+/* Override Bulma default font */
+html, body {
+  font-family: 'Futura', sans-serif !important;
+}
