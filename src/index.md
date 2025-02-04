@@ -3,4 +3,4 @@ title: Homepage
 layout: index.liquid
 ---
 
-This is our new homepage
+I'm a journalist for Deutsche Welle and a sports fanatic, who loves to run marathons around the world.

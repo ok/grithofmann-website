@@ -1,27 +1,29 @@
 {
   "nav_items": [
     {
-      "title": "Start",
-      "url": "/",
+      "title": "Career",
+      "url": "/career",
       "header": true
     },
     {
-      "title": "Produktdetails",
-      "url": "/product",
+      "title": "Portfolio",
+      "url": "/portfolio",
       "header": true
     },
     {
-      "title": "Kontakt",
+      "title": "Hobbies",
+      "url": "/hobbies",
+      "header": true
+    },
+    {
+      "title": "About",
+      "url": "/about",
+      "header": true
+    },
+    {
+      "title": "Contact",
       "url": "/contact",
       "header": true
-    },
-    {
-      "title": "Impressum",
-      "url": "/imprint"
-    },
-    {
-      "title": "Datenschutzerklärung",
-      "url": "/privacy"
     }
   ]
 }

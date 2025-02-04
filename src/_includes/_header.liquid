@@ -1,11 +1,11 @@
     <header>
-      <nav class="navbar" role="navigation" aria-label="main navigation">
+      <nav class="navbar pb-5" role="navigation" aria-label="main navigation">
         <div class="navbar-brand">
           <a class="navbar-item is-size-5" href="https://grithofmann.net">
-            <p class="is-2 title">Grit Hofmann</p>
+            <p class="is-2 title is-uppercase">Grit Hofmann</p>
           </a>
       
-          <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
+          <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navMenu">
             <span aria-hidden="true"></span>
             <span aria-hidden="true"></span>
             <span aria-hidden="true"></span>
@@ -13,11 +13,11 @@
           </a>
         </div>
       
-        <div id="navbarBasicExample" class="navbar-menu">
-          <div class="navbar-end is-hidden-mobile is-hidden-tablet-only">
+        <div class="navbar-menu" id="navMenu">
+          <div class="navbar-end">
           {%- for item in navigation.nav_items %}
             {%- if item.header %}
-            <a href="{{ item.url }}" class="navbar-item is-size-5">{{ item.title }}</a>
+            <a href="{{ item.url }}" class="navbar-item is-size-7 is-uppercase">{{ item.title }}</a>
             {%- endif %}
           {%- endfor %}
           </div>

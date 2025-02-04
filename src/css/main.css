@@ -22,15 +22,49 @@ $card-radius: 1rem; */
   --bulma-primary-l: 57%;
 }
 
-.hero.is-primary .title {
-  --bulma-title-color: hsl(var(--bulma-hero-h), var(--bulma-hero-s), var(--bulma-hero-color-l));
-  --bulma-title-strong-color: hsl(var(--bulma-hero-h), var(--bulma-hero-s), var(--bulma-hero-color-l));
+div.canvas{
+  padding: 75px;
+}
+
+@media only screen and (max-width: 750px) {
+  div.canvas {
+      margin: 0 auto;
+      padding: 20px;
+      padding-top: 30px;
+      box-shadow: 0;
+  }
+}
+
+@media screen and (max-width: 1023px) {
+  .navbar-menu {
+    box-shadow: none;
+    border: 1px;
+    border-color: black;
+    padding-top: 20px;
+  }
 }
 
 .card {
   background-color: rgb(247, 248, 250);
   box-shadow: 0 3px 5px 0 rgba(0, 0, 0, .1);
+  border-radius: 0px;
 }
+
+.card-content {
+  padding: 0;
+}
+
+.image {
+  object-fit: cover;
+}
+
+.card-content:last-child, 
+.card-footer:last-child, 
+.card-header:last-child,
+.card-image:last-child img {
+  border-radius: 0px;
+}
+
 
 .card-header {
   box-shadow: none;
@@ -38,15 +72,6 @@ $card-radius: 1rem; */
 
 .brand-image {
   max-width: fit-content;
-}
-
-.hero-image {
-  width: 100%;
-  height: auto;
-}
-
-.content-image {
-  border-radius: 0.75rem;
 }
 
 .footer {
