@@ -11,18 +11,23 @@
       "header": true
     },
     {
-      "title": "Hobbies",
-      "url": "/hobbies",
+      "title": "Travels",
+      "url": "/travels",
       "header": true
     },
     {
-      "title": "About",
-      "url": "/about",
+      "title": "Runs",
+      "url": "/runs",
       "header": true
     },
     {
       "title": "Contact",
       "url": "/contact",
+      "header": true
+    },
+    {
+      "title": "Debug",
+      "url": "/debug",
       "header": true
     }
   ]

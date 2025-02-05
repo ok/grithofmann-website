@@ -1,0 +1,34 @@
+---
+layout: base.liquid
+title: Grit Hofmann
+---
+
+<section class="content mt-5">
+{{ content }}
+
+  <div class="container fixed-grid has-3-cols has-1-cols-mobile">
+    <div class="grid is-col-min-16 is-gap-3">
+    {%- for collection in contentful %}
+      <div class="cell">
+        <div class="card">
+          <div class="card-content">
+            <div class="card-image">
+              <figure class="image is-1by1">
+                <img
+                  class="image"
+                  src="{{ collection.cover }}"
+                  alt=">{{ collection.title }}"
+                />
+              </figure>
+            </div>
+          </div>
+          <footer class="card-footer has-background-white">
+            <p class="card-footer-item is-4">{{ collection.title }}</p>
+          </footer>
+        </div>
+      </div>
+    {%- endfor  %}
+    </div>
+  </div>
+
+</section>

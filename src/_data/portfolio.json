@@ -1,0 +1,1489 @@
+[
+  {
+    "metadata": {
+      "tags": [],
+      "concepts": []
+    },
+    "sys": {
+      "space": {
+        "sys": {
+          "type": "Link",
+          "linkType": "Space",
+          "id": "thw7s22mm0x1"
+        }
+      },
+      "id": "aTrNZIg6VR19ZOtalkBhT",
+      "type": "Entry",
+      "createdAt": "2025-02-04T16:08:10.718Z",
+      "updatedAt": "2025-02-04T16:08:10.718Z",
+      "environment": {
+        "sys": {
+          "id": "master",
+          "type": "Link",
+          "linkType": "Environment"
+        }
+      },
+      "publishedVersion": 16,
+      "revision": 1,
+      "contentType": {
+        "sys": {
+          "type": "Link",
+          "linkType": "ContentType",
+          "id": "collection"
+        }
+      },
+      "locale": "en-US"
+    },
+    "fields": {
+      "title": "Cameroon - Guns for Motorbikes",
+      "description": "In Cameroon’s Korup National Park, local communities have relied on the forest for centuries, including hunting wildlife for food. Legal and moral restrictions alone do not stop the practice, as it remains a key part of their daily lives.\n\nDuring my filming trip, I joined NGOs working on sustainable forestry and wildlife management, aiming to balance conservation efforts with local needs. Learn about how in my film. ",
+      "video": "https://www.youtube.com/watch?v=iF583IdNPjA&t=12s",
+      "photos": [
+        {
+          "metadata": {
+            "tags": [
+              {
+                "sys": {
+                  "type": "Link",
+                  "linkType": "Tag",
+                  "id": "cover"
+                }
+              }
+            ],
+            "concepts": []
+          },
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "thw7s22mm0x1"
+              }
+            },
+            "id": "6h3FYxXK8MbpPcinStmMdC",
+            "type": "Asset",
+            "createdAt": "2025-02-04T16:02:22.782Z",
+            "updatedAt": "2025-02-04T16:02:29.966Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "publishedVersion": 5,
+            "revision": 2,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "9CF3C12D-A4DD-4948-A53B-AC963F2CA941 1 101 a",
+            "description": "",
+            "file": {
+              "url": "//images.ctfassets.net/thw7s22mm0x1/6h3FYxXK8MbpPcinStmMdC/894d2104c25bf930b3761c69b23e9407/9CF3C12D-A4DD-4948-A53B-AC963F2CA941_1_101_a.jpeg",
+              "details": {
+                "size": 417285,
+                "image": {
+                  "width": 1280,
+                  "height": 959
+                }
+              },
+              "fileName": "9CF3C12D-A4DD-4948-A53B-AC963F2CA941_1_101_a.jpeg",
+              "contentType": "image/jpeg"
+            }
+          }
+        },
+        {
+          "metadata": {
+            "tags": [],
+            "concepts": []
+          },
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "thw7s22mm0x1"
+              }
+            },
+            "id": "55exMuxmPoCoPlwKLTygsZ",
+            "type": "Asset",
+            "createdAt": "2025-02-04T16:02:02.756Z",
+            "updatedAt": "2025-02-04T16:02:02.756Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "publishedVersion": 3,
+            "revision": 1,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "0DAFCACA-31B6-4CB6-BC38-453397A81C7D",
+            "description": "",
+            "file": {
+              "url": "//images.ctfassets.net/thw7s22mm0x1/55exMuxmPoCoPlwKLTygsZ/2753216e009c42d11d4670e2e2aa2baa/0DAFCACA-31B6-4CB6-BC38-453397A81C7D.jpeg",
+              "details": {
+                "size": 878196,
+                "image": {
+                  "width": 2500,
+                  "height": 1875
+                }
+              },
+              "fileName": "0DAFCACA-31B6-4CB6-BC38-453397A81C7D.jpeg",
+              "contentType": "image/jpeg"
+            }
+          }
+        },
+        {
+          "metadata": {
+            "tags": [],
+            "concepts": []
+          },
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "thw7s22mm0x1"
+              }
+            },
+            "id": "6kN84DkIIw2MIyudbYkZLR",
+            "type": "Asset",
+            "createdAt": "2025-02-04T16:04:45.765Z",
+            "updatedAt": "2025-02-04T16:04:45.765Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "publishedVersion": 3,
+            "revision": 1,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "C0950AB1-80E0-4803-8E8E-5E3D9B5BEF8F",
+            "description": "",
+            "file": {
+              "url": "//images.ctfassets.net/thw7s22mm0x1/6kN84DkIIw2MIyudbYkZLR/7fd5bf9093faca2f88ea24af8e643cca/C0950AB1-80E0-4803-8E8E-5E3D9B5BEF8F.jpeg",
+              "details": {
+                "size": 711150,
+                "image": {
+                  "width": 2500,
+                  "height": 1875
+                }
+              },
+              "fileName": "C0950AB1-80E0-4803-8E8E-5E3D9B5BEF8F.jpeg",
+              "contentType": "image/jpeg"
+            }
+          }
+        },
+        {
+          "metadata": {
+            "tags": [],
+            "concepts": []
+          },
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "thw7s22mm0x1"
+              }
+            },
+            "id": "4Llfk1LqY7O8t1UVGnEdp3",
+            "type": "Asset",
+            "createdAt": "2025-02-04T16:07:10.241Z",
+            "updatedAt": "2025-02-04T16:07:10.241Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "publishedVersion": 3,
+            "revision": 1,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "IMG 3279",
+            "description": "",
+            "file": {
+              "url": "//images.ctfassets.net/thw7s22mm0x1/4Llfk1LqY7O8t1UVGnEdp3/ded5aa022ad1f7435924d2e528395bd3/IMG_3279.JPEG",
+              "details": {
+                "size": 3887779,
+                "image": {
+                  "width": 3264,
+                  "height": 2448
+                }
+              },
+              "fileName": "IMG_3279.JPEG",
+              "contentType": "image/jpeg"
+            }
+          }
+        },
+        {
+          "metadata": {
+            "tags": [],
+            "concepts": []
+          },
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "thw7s22mm0x1"
+              }
+            },
+            "id": "1DZYIhHOp6GfGr1FDGrUjg",
+            "type": "Asset",
+            "createdAt": "2025-02-04T16:07:51.697Z",
+            "updatedAt": "2025-02-04T16:07:51.697Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "publishedVersion": 3,
+            "revision": 1,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "IMG 3068",
+            "description": "",
+            "file": {
+              "url": "//images.ctfassets.net/thw7s22mm0x1/1DZYIhHOp6GfGr1FDGrUjg/75e630539ad01f20df7622450ebeaa21/IMG_3068.JPEG",
+              "details": {
+                "size": 3368403,
+                "image": {
+                  "width": 3264,
+                  "height": 2448
+                }
+              },
+              "fileName": "IMG_3068.JPEG",
+              "contentType": "image/jpeg"
+            }
+          }
+        }
+      ],
+      "category": "Portfolio",
+      "cover": "https://images.ctfassets.net/thw7s22mm0x1/6h3FYxXK8MbpPcinStmMdC/894d2104c25bf930b3761c69b23e9407/9CF3C12D-A4DD-4948-A53B-AC963F2CA941_1_101_a.jpeg"
+    }
+  },
+  {
+    "metadata": {
+      "tags": [],
+      "concepts": []
+    },
+    "sys": {
+      "space": {
+        "sys": {
+          "type": "Link",
+          "linkType": "Space",
+          "id": "thw7s22mm0x1"
+        }
+      },
+      "id": "5wEVjnw8I6KCxh9lvzvOKk",
+      "type": "Entry",
+      "createdAt": "2025-02-04T15:42:33.305Z",
+      "updatedAt": "2025-02-04T15:59:03.829Z",
+      "environment": {
+        "sys": {
+          "id": "master",
+          "type": "Link",
+          "linkType": "Environment"
+        }
+      },
+      "publishedVersion": 38,
+      "revision": 2,
+      "contentType": {
+        "sys": {
+          "type": "Link",
+          "linkType": "ContentType",
+          "id": "collection"
+        }
+      },
+      "locale": "en-US"
+    },
+    "fields": {
+      "title": " Flying with the World’s Largest Plane: The Antonov An-225 ",
+      "description": "The Antonov An-225 Mriya was the biggest aircraft ever built, designed in the Soviet Union, later flying for Ukrainian Antonov Airlines. I had the unique chance to fly on this engineering marvel in 2016, on its cargo mission from Prague in Czech Republic to Perth in Australia. Three days as the only woman on board for days with an all-male crew. What was it like inside? Watch the film! \n\nTragically, this legendary plane was destroyed in Russia’s war against Ukraine, making my experience aboard even more meaningful. ",
+      "video": "https://youtu.be/8aIzARbiyN0?si=rZoLwxra2T3X_cjl",
+      "photos": [
+        {
+          "metadata": {
+            "tags": [
+              {
+                "sys": {
+                  "type": "Link",
+                  "linkType": "Tag",
+                  "id": "cover"
+                }
+              }
+            ],
+            "concepts": []
+          },
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "thw7s22mm0x1"
+              }
+            },
+            "id": "1nznJjwnv5SIRrxKAg91nC",
+            "type": "Asset",
+            "createdAt": "2025-02-04T15:58:03.490Z",
+            "updatedAt": "2025-02-04T15:58:15.665Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "publishedVersion": 5,
+            "revision": 2,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "vor+dem+Flieger+stehend",
+            "description": "",
+            "file": {
+              "url": "//images.ctfassets.net/thw7s22mm0x1/1nznJjwnv5SIRrxKAg91nC/7708f4b9d4a5b4eb952ae0b8b313fcb1/vor_dem_Flieger_stehend.jpg",
+              "details": {
+                "size": 501290,
+                "image": {
+                  "width": 2000,
+                  "height": 2000
+                }
+              },
+              "fileName": "vor+dem+Flieger+stehend.jpg",
+              "contentType": "image/jpeg"
+            }
+          }
+        },
+        {
+          "metadata": {
+            "tags": [],
+            "concepts": []
+          },
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "thw7s22mm0x1"
+              }
+            },
+            "id": "FC1HXGo1CQpBlb7NgJxJA",
+            "type": "Asset",
+            "createdAt": "2025-02-04T15:41:25.663Z",
+            "updatedAt": "2025-02-04T15:41:25.663Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "publishedVersion": 3,
+            "revision": 1,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "IMG 7325",
+            "description": "",
+            "file": {
+              "url": "//images.ctfassets.net/thw7s22mm0x1/FC1HXGo1CQpBlb7NgJxJA/23f68530a68211916137c5c8b73e0262/IMG_7325.jpeg",
+              "details": {
+                "size": 124358,
+                "image": {
+                  "width": 820,
+                  "height": 820
+                }
+              },
+              "fileName": "IMG_7325.jpeg",
+              "contentType": "image/jpeg"
+            }
+          }
+        },
+        {
+          "metadata": {
+            "tags": [],
+            "concepts": []
+          },
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "thw7s22mm0x1"
+              }
+            },
+            "id": "3h3ewAntPov7Hv69sdjoHd",
+            "type": "Asset",
+            "createdAt": "2025-02-04T15:42:16.570Z",
+            "updatedAt": "2025-02-04T15:42:16.570Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "publishedVersion": 3,
+            "revision": 1,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "IMG 7255",
+            "description": "",
+            "file": {
+              "url": "//images.ctfassets.net/thw7s22mm0x1/3h3ewAntPov7Hv69sdjoHd/61bb5295d8e678bf4a6636ad790a21a2/IMG_7255.jpeg",
+              "details": {
+                "size": 341139,
+                "image": {
+                  "width": 1623,
+                  "height": 1623
+                }
+              },
+              "fileName": "IMG_7255.jpeg",
+              "contentType": "image/jpeg"
+            }
+          }
+        },
+        {
+          "metadata": {
+            "tags": [],
+            "concepts": []
+          },
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "thw7s22mm0x1"
+              }
+            },
+            "id": "6VtibtNsyCW6ZZBDVfr79v",
+            "type": "Asset",
+            "createdAt": "2025-02-04T15:41:52.805Z",
+            "updatedAt": "2025-02-04T15:41:52.805Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "publishedVersion": 3,
+            "revision": 1,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "IMG 7211",
+            "description": "",
+            "file": {
+              "url": "//images.ctfassets.net/thw7s22mm0x1/6VtibtNsyCW6ZZBDVfr79v/2f46b2068448a6474a8c06a2e56ab8fc/IMG_7211.jpeg",
+              "details": {
+                "size": 540786,
+                "image": {
+                  "width": 1875,
+                  "height": 1875
+                }
+              },
+              "fileName": "IMG_7211.jpeg",
+              "contentType": "image/jpeg"
+            }
+          }
+        },
+        {
+          "metadata": {
+            "tags": [],
+            "concepts": []
+          },
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "thw7s22mm0x1"
+              }
+            },
+            "id": "4AhgfcR64EcWlteuU5CzPz",
+            "type": "Asset",
+            "createdAt": "2025-02-04T15:40:47.049Z",
+            "updatedAt": "2025-02-04T15:40:47.049Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "publishedVersion": 3,
+            "revision": 1,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "IMG 7150",
+            "description": "",
+            "file": {
+              "url": "//images.ctfassets.net/thw7s22mm0x1/4AhgfcR64EcWlteuU5CzPz/a944bfa396e87cab1800cf18d9fa667b/IMG_7150.jpeg",
+              "details": {
+                "size": 723062,
+                "image": {
+                  "width": 2325,
+                  "height": 2325
+                }
+              },
+              "fileName": "IMG_7150.jpeg",
+              "contentType": "image/jpeg"
+            }
+          }
+        },
+        {
+          "metadata": {
+            "tags": [],
+            "concepts": []
+          },
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "thw7s22mm0x1"
+              }
+            },
+            "id": "5ZVfuW9QHN88tnnOEXzk3M",
+            "type": "Asset",
+            "createdAt": "2025-02-04T15:41:05.639Z",
+            "updatedAt": "2025-02-04T15:41:05.639Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "publishedVersion": 3,
+            "revision": 1,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "IMG 7132",
+            "description": "",
+            "file": {
+              "url": "//images.ctfassets.net/thw7s22mm0x1/5ZVfuW9QHN88tnnOEXzk3M/c0eadc6c6d3831cdb516a42370ff78f8/IMG_7132.jpeg",
+              "details": {
+                "size": 344909,
+                "image": {
+                  "width": 1875,
+                  "height": 1875
+                }
+              },
+              "fileName": "IMG_7132.jpeg",
+              "contentType": "image/jpeg"
+            }
+          }
+        }
+      ],
+      "category": "Portfolio",
+      "cover": "https://images.ctfassets.net/thw7s22mm0x1/1nznJjwnv5SIRrxKAg91nC/7708f4b9d4a5b4eb952ae0b8b313fcb1/vor_dem_Flieger_stehend.jpg"
+    }
+  },
+  {
+    "metadata": {
+      "tags": [],
+      "concepts": []
+    },
+    "sys": {
+      "space": {
+        "sys": {
+          "type": "Link",
+          "linkType": "Space",
+          "id": "thw7s22mm0x1"
+        }
+      },
+      "id": "EQQVdi0KrjYIehfuljEQh",
+      "type": "Entry",
+      "createdAt": "2025-02-03T19:26:50.579Z",
+      "updatedAt": "2025-02-04T15:55:35.903Z",
+      "environment": {
+        "sys": {
+          "id": "master",
+          "type": "Link",
+          "linkType": "Environment"
+        }
+      },
+      "publishedVersion": 40,
+      "revision": 7,
+      "contentType": {
+        "sys": {
+          "type": "Link",
+          "linkType": "ContentType",
+          "id": "collection"
+        }
+      },
+      "locale": "en-US"
+    },
+    "fields": {
+      "title": "How Will We Energize the World of Tomorrow? My Inspiring Filming Trip to Malaysia",
+      "description": "As the global demand for sustainable energy solutions grows, the next generation of innovators is stepping up to the challenge. During my recent filming trip to Malaysia, I had the privilege of meeting impressive young entrepreneurs, visionary startup founders and changemakers who are shaping the future of energy in Malaysia.",
+      "video": "https://www.youtube.com/watch?v=OyBIFSQmKt4&",
+      "photos": [
+        {
+          "metadata": {
+            "tags": [
+              {
+                "sys": {
+                  "type": "Link",
+                  "linkType": "Tag",
+                  "id": "cover"
+                }
+              }
+            ],
+            "concepts": []
+          },
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "thw7s22mm0x1"
+              }
+            },
+            "id": "7C6UlzCWgFqkbG7z0VLkJ1",
+            "type": "Asset",
+            "createdAt": "2025-02-04T14:49:41.013Z",
+            "updatedAt": "2025-02-04T15:54:37.960Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "publishedVersion": 6,
+            "revision": 2,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "Malaysia",
+            "description": "",
+            "file": {
+              "url": "//images.ctfassets.net/thw7s22mm0x1/7C6UlzCWgFqkbG7z0VLkJ1/a06b9dbc249cfe2845e27d2204dbfb42/Malaysia_IIII.jpeg",
+              "details": {
+                "size": 222501,
+                "image": {
+                  "width": 1239,
+                  "height": 960
+                }
+              },
+              "fileName": "Malaysia IIII.jpeg",
+              "contentType": "image/jpeg"
+            }
+          }
+        },
+        {
+          "metadata": {
+            "tags": [
+              {
+                "sys": {
+                  "type": "Link",
+                  "linkType": "Tag",
+                  "id": "cover"
+                }
+              }
+            ],
+            "concepts": []
+          },
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "thw7s22mm0x1"
+              }
+            },
+            "id": "3IXFgxV93T6getDlylXpfN",
+            "type": "Asset",
+            "createdAt": "2025-02-03T19:26:41.641Z",
+            "updatedAt": "2025-02-04T07:04:34.568Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "publishedVersion": 5,
+            "revision": 2,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "38F8680A-B395-49F7-8EDB-2D721785C066",
+            "description": "",
+            "file": {
+              "url": "//images.ctfassets.net/thw7s22mm0x1/3IXFgxV93T6getDlylXpfN/a425522f0bb889a29bac9c57743769b3/38F8680A-B395-49F7-8EDB-2D721785C066.jpg",
+              "details": {
+                "size": 336641,
+                "image": {
+                  "width": 2500,
+                  "height": 1875
+                }
+              },
+              "fileName": "38F8680A-B395-49F7-8EDB-2D721785C066.jpg",
+              "contentType": "image/jpeg"
+            }
+          }
+        },
+        {
+          "metadata": {
+            "tags": [],
+            "concepts": []
+          },
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "thw7s22mm0x1"
+              }
+            },
+            "id": "5kwpjClQAV2OnTA2JZtDDS",
+            "type": "Asset",
+            "createdAt": "2025-02-03T19:26:41.645Z",
+            "updatedAt": "2025-02-03T19:26:41.645Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "publishedVersion": 3,
+            "revision": 1,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "AF16061D-5299-4A51-BC6B-34C726510EC6",
+            "description": "",
+            "file": {
+              "url": "//images.ctfassets.net/thw7s22mm0x1/5kwpjClQAV2OnTA2JZtDDS/21490610ac9726065311d4ae0e7c4e27/AF16061D-5299-4A51-BC6B-34C726510EC6.jpg",
+              "details": {
+                "size": 713365,
+                "image": {
+                  "width": 2208,
+                  "height": 1656
+                }
+              },
+              "fileName": "AF16061D-5299-4A51-BC6B-34C726510EC6.jpg",
+              "contentType": "image/jpeg"
+            }
+          }
+        },
+        {
+          "metadata": {
+            "tags": [],
+            "concepts": []
+          },
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "thw7s22mm0x1"
+              }
+            },
+            "id": "3OKGGJ2hKgAGesMcUUUBcz",
+            "type": "Asset",
+            "createdAt": "2025-02-03T19:26:41.644Z",
+            "updatedAt": "2025-02-03T19:26:41.644Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "publishedVersion": 3,
+            "revision": 1,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "FDDB14F1-4015-455B-827F-D36925EF9151 1 201 a",
+            "description": "",
+            "file": {
+              "url": "//images.ctfassets.net/thw7s22mm0x1/3OKGGJ2hKgAGesMcUUUBcz/d1c79e3092ab8d57a5e8b70247367673/FDDB14F1-4015-455B-827F-D36925EF9151_1_201_a.jpg",
+              "details": {
+                "size": 1538808,
+                "image": {
+                  "width": 2500,
+                  "height": 1875
+                }
+              },
+              "fileName": "FDDB14F1-4015-455B-827F-D36925EF9151_1_201_a.jpg",
+              "contentType": "image/jpeg"
+            }
+          }
+        },
+        {
+          "metadata": {
+            "tags": [],
+            "concepts": []
+          },
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "thw7s22mm0x1"
+              }
+            },
+            "id": "2CQxIV1GHfanWtopmwxCA0",
+            "type": "Asset",
+            "createdAt": "2025-02-04T14:51:08.068Z",
+            "updatedAt": "2025-02-04T14:51:08.068Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "publishedVersion": 3,
+            "revision": 1,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "Malaysia III",
+            "description": "",
+            "file": {
+              "url": "//images.ctfassets.net/thw7s22mm0x1/2CQxIV1GHfanWtopmwxCA0/031db59d014601107a25a20c3bded97b/Malaysia_III.jpeg",
+              "details": {
+                "size": 550935,
+                "image": {
+                  "width": 1500,
+                  "height": 1138
+                }
+              },
+              "fileName": "Malaysia III.jpeg",
+              "contentType": "image/jpeg"
+            }
+          }
+        },
+        {
+          "metadata": {
+            "tags": [],
+            "concepts": []
+          },
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "thw7s22mm0x1"
+              }
+            },
+            "id": "5uQ5xGxvHsL1lodDp0s8Cl",
+            "type": "Asset",
+            "createdAt": "2025-02-04T14:50:47.482Z",
+            "updatedAt": "2025-02-04T14:50:47.482Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "publishedVersion": 3,
+            "revision": 1,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "Malaysia I",
+            "description": "",
+            "file": {
+              "url": "//images.ctfassets.net/thw7s22mm0x1/5uQ5xGxvHsL1lodDp0s8Cl/3ae7281396054b8147e4b64c53edec4d/Malaysia_I.jpeg",
+              "details": {
+                "size": 455813,
+                "image": {
+                  "width": 1500,
+                  "height": 1126
+                }
+              },
+              "fileName": "Malaysia I.jpeg",
+              "contentType": "image/jpeg"
+            }
+          }
+        }
+      ],
+      "category": "Portfolio",
+      "cover": "https://images.ctfassets.net/thw7s22mm0x1/7C6UlzCWgFqkbG7z0VLkJ1/a06b9dbc249cfe2845e27d2204dbfb42/Malaysia_IIII.jpeg"
+    }
+  },
+  {
+    "metadata": {
+      "tags": [],
+      "concepts": []
+    },
+    "sys": {
+      "space": {
+        "sys": {
+          "type": "Link",
+          "linkType": "Space",
+          "id": "thw7s22mm0x1"
+        }
+      },
+      "id": "3rZdVpw8VwpcVFXIonTDJ9",
+      "type": "Entry",
+      "createdAt": "2025-02-04T15:51:51.693Z",
+      "updatedAt": "2025-02-04T15:51:51.693Z",
+      "environment": {
+        "sys": {
+          "id": "master",
+          "type": "Link",
+          "linkType": "Environment"
+        }
+      },
+      "publishedVersion": 12,
+      "revision": 1,
+      "contentType": {
+        "sys": {
+          "type": "Link",
+          "linkType": "ContentType",
+          "id": "collection"
+        }
+      },
+      "locale": "en-US"
+    },
+    "fields": {
+      "title": " Indawgyi Lake, Myanmar – Eco-Tourism in the Making",
+      "description": "Indawgyi Lake, Myanmar’s largest freshwater lake, is a place of natural beauty and cultural significance. On my filming trip, I met local communities working to develop eco-friendly tourism that protects the lake and supports sustainable livelihoods.\n\nBalancing conservation and tourism is a challenge. How are people in the region approaching it? Learn about their efforts, hopes, and the impact on daily life.",
+      "photos": [
+        {
+          "metadata": {
+            "tags": [
+              {
+                "sys": {
+                  "type": "Link",
+                  "linkType": "Tag",
+                  "id": "cover"
+                }
+              }
+            ],
+            "concepts": []
+          },
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "thw7s22mm0x1"
+              }
+            },
+            "id": "5tZSUIdd99oGKLNa6zEJe4",
+            "type": "Asset",
+            "createdAt": "2025-02-04T15:49:53.387Z",
+            "updatedAt": "2025-02-04T15:54:04.351Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "publishedVersion": 5,
+            "revision": 2,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "IMG 4463",
+            "description": "",
+            "file": {
+              "url": "//images.ctfassets.net/thw7s22mm0x1/5tZSUIdd99oGKLNa6zEJe4/6f5448d98c2c0c70e897cfcaf2f9f932/IMG_4463.jpeg",
+              "details": {
+                "size": 1138146,
+                "image": {
+                  "width": 2500,
+                  "height": 1875
+                }
+              },
+              "fileName": "IMG_4463.jpeg",
+              "contentType": "image/jpeg"
+            }
+          }
+        },
+        {
+          "metadata": {
+            "tags": [],
+            "concepts": []
+          },
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "thw7s22mm0x1"
+              }
+            },
+            "id": "3ftPAGpnA6ZfHhLckcnJgc",
+            "type": "Asset",
+            "createdAt": "2025-02-04T15:49:12.821Z",
+            "updatedAt": "2025-02-04T15:49:12.821Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "publishedVersion": 3,
+            "revision": 1,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "IMG 4495",
+            "description": "",
+            "file": {
+              "url": "//images.ctfassets.net/thw7s22mm0x1/3ftPAGpnA6ZfHhLckcnJgc/2908f601f91a03c71fa35f9d90bb6a8a/IMG_4495.jpeg",
+              "details": {
+                "size": 1403006,
+                "image": {
+                  "width": 2500,
+                  "height": 1875
+                }
+              },
+              "fileName": "IMG_4495.jpeg",
+              "contentType": "image/jpeg"
+            }
+          }
+        },
+        {
+          "metadata": {
+            "tags": [],
+            "concepts": []
+          },
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "thw7s22mm0x1"
+              }
+            },
+            "id": "539htf5bguu94rP09XX4VC",
+            "type": "Asset",
+            "createdAt": "2025-02-04T15:48:50.588Z",
+            "updatedAt": "2025-02-04T15:48:50.588Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "publishedVersion": 3,
+            "revision": 1,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "IMG 4615",
+            "description": "",
+            "file": {
+              "url": "//images.ctfassets.net/thw7s22mm0x1/539htf5bguu94rP09XX4VC/607ba9a4f5e0a13f7db6af50a0b61a1b/IMG_4615.jpeg",
+              "details": {
+                "size": 3533152,
+                "image": {
+                  "width": 2418,
+                  "height": 1813
+                }
+              },
+              "fileName": "IMG_4615.jpeg",
+              "contentType": "image/jpeg"
+            }
+          }
+        },
+        {
+          "metadata": {
+            "tags": [],
+            "concepts": []
+          },
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "thw7s22mm0x1"
+              }
+            },
+            "id": "POtchTVxqbXiTVm2BeT4Y",
+            "type": "Asset",
+            "createdAt": "2025-02-04T15:49:34.465Z",
+            "updatedAt": "2025-02-04T15:49:34.465Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "publishedVersion": 3,
+            "revision": 1,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "IMG 4407",
+            "description": "",
+            "file": {
+              "url": "//images.ctfassets.net/thw7s22mm0x1/POtchTVxqbXiTVm2BeT4Y/da4d530a1a2fcdf09885f35bb4a04361/IMG_4407.jpeg",
+              "details": {
+                "size": 1688012,
+                "image": {
+                  "width": 2500,
+                  "height": 1875
+                }
+              },
+              "fileName": "IMG_4407.jpeg",
+              "contentType": "image/jpeg"
+            }
+          }
+        }
+      ],
+      "category": "Portfolio",
+      "cover": "https://images.ctfassets.net/thw7s22mm0x1/5tZSUIdd99oGKLNa6zEJe4/6f5448d98c2c0c70e897cfcaf2f9f932/IMG_4463.jpeg"
+    }
+  },
+  {
+    "metadata": {
+      "tags": [],
+      "concepts": []
+    },
+    "sys": {
+      "space": {
+        "sys": {
+          "type": "Link",
+          "linkType": "Space",
+          "id": "thw7s22mm0x1"
+        }
+      },
+      "id": "4l0s7AmhPcH6V2IefZLZsx",
+      "type": "Entry",
+      "createdAt": "2025-02-03T19:26:51.002Z",
+      "updatedAt": "2025-02-04T15:26:47.655Z",
+      "environment": {
+        "sys": {
+          "id": "master",
+          "type": "Link",
+          "linkType": "Environment"
+        }
+      },
+      "publishedVersion": 29,
+      "revision": 7,
+      "contentType": {
+        "sys": {
+          "type": "Link",
+          "linkType": "ContentType",
+          "id": "collection"
+        }
+      },
+      "locale": "en-US"
+    },
+    "fields": {
+      "title": "Has Technology Become the New Religion? ",
+      "description": "We trust our smartphones, rely on AI, and follow algorithms—but have technologies become our modern-day faith? \nOn my eye-opening journey to Taiwan, I met visionary innovators who see tech as a promise for a better future—and skeptics who warn of its hidden dangers. Who's right? And what does it mean for all of us?\n",
+      "video": "https://www.youtube.com/watch?v=9yTnB72658A",
+      "photos": [
+        {
+          "metadata": {
+            "tags": [
+              {
+                "sys": {
+                  "type": "Link",
+                  "linkType": "Tag",
+                  "id": "cover"
+                }
+              }
+            ],
+            "concepts": []
+          },
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "thw7s22mm0x1"
+              }
+            },
+            "id": "34Mh5l16UAHiSZRZEizKb0",
+            "type": "Asset",
+            "createdAt": "2025-02-04T15:05:40.091Z",
+            "updatedAt": "2025-02-04T15:30:36.466Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "publishedVersion": 5,
+            "revision": 2,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "IMG 5455",
+            "description": "",
+            "file": {
+              "url": "//images.ctfassets.net/thw7s22mm0x1/34Mh5l16UAHiSZRZEizKb0/8db36bdbac97959a49c303426aee41e4/IMG_5455.JPEG",
+              "details": {
+                "size": 549628,
+                "image": {
+                  "width": 1080,
+                  "height": 1080
+                }
+              },
+              "fileName": "IMG_5455.JPEG",
+              "contentType": "image/jpeg"
+            }
+          }
+        },
+        {
+          "metadata": {
+            "tags": [],
+            "concepts": []
+          },
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "thw7s22mm0x1"
+              }
+            },
+            "id": "6l3iV4k6sUxHuwDKpDB3OZ",
+            "type": "Asset",
+            "createdAt": "2025-02-03T19:26:41.638Z",
+            "updatedAt": "2025-02-03T19:26:41.638Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "publishedVersion": 3,
+            "revision": 1,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "17F34BC0-329F-4BA9-A707-E1F213813A39 1 201 a",
+            "description": "",
+            "file": {
+              "url": "//images.ctfassets.net/thw7s22mm0x1/6l3iV4k6sUxHuwDKpDB3OZ/a6c1a310946915c5f8a1f812fdf58bbb/17F34BC0-329F-4BA9-A707-E1F213813A39_1_201_a.jpg",
+              "details": {
+                "size": 821063,
+                "image": {
+                  "width": 2500,
+                  "height": 1875
+                }
+              },
+              "fileName": "17F34BC0-329F-4BA9-A707-E1F213813A39_1_201_a.jpg",
+              "contentType": "image/jpeg"
+            }
+          }
+        },
+        {
+          "metadata": {
+            "tags": [],
+            "concepts": []
+          },
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "thw7s22mm0x1"
+              }
+            },
+            "id": "1zZ7kbLqkGg4qxs5rV0N0T",
+            "type": "Asset",
+            "createdAt": "2025-02-04T15:06:46.625Z",
+            "updatedAt": "2025-02-04T15:06:46.625Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "publishedVersion": 3,
+            "revision": 1,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "IMG 5550",
+            "description": "",
+            "file": {
+              "url": "//images.ctfassets.net/thw7s22mm0x1/1zZ7kbLqkGg4qxs5rV0N0T/a5ca2982f5b221d970d66111a65fd48e/IMG_5550.JPEG",
+              "details": {
+                "size": 1080044,
+                "image": {
+                  "width": 2448,
+                  "height": 3264
+                }
+              },
+              "fileName": "IMG_5550.JPEG",
+              "contentType": "image/jpeg"
+            }
+          }
+        },
+        {
+          "metadata": {
+            "tags": [],
+            "concepts": []
+          },
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "thw7s22mm0x1"
+              }
+            },
+            "id": "4PXk8e2ehyWlOVX2HEtrfJ",
+            "type": "Asset",
+            "createdAt": "2025-02-04T15:08:18.622Z",
+            "updatedAt": "2025-02-04T15:08:18.622Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "publishedVersion": 3,
+            "revision": 1,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "4F42DC3E-FB80-461A-8D3C-443F651CACE8 1 201 a",
+            "description": "",
+            "file": {
+              "url": "//images.ctfassets.net/thw7s22mm0x1/4PXk8e2ehyWlOVX2HEtrfJ/f78266537a36932bb2e9bf8dd3848eb0/4F42DC3E-FB80-461A-8D3C-443F651CACE8_1_201_a.jpeg",
+              "details": {
+                "size": 710165,
+                "image": {
+                  "width": 2500,
+                  "height": 1883
+                }
+              },
+              "fileName": "4F42DC3E-FB80-461A-8D3C-443F651CACE8_1_201_a.jpeg",
+              "contentType": "image/jpeg"
+            }
+          }
+        },
+        {
+          "metadata": {
+            "tags": [],
+            "concepts": []
+          },
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "thw7s22mm0x1"
+              }
+            },
+            "id": "6r1mCUWevZi2ZxpHIT6y0k",
+            "type": "Asset",
+            "createdAt": "2025-02-03T19:26:41.640Z",
+            "updatedAt": "2025-02-03T19:26:41.640Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "publishedVersion": 3,
+            "revision": 1,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "2BB11E8B-AC8C-46BD-B745-A86BDEC93138 1 201 a",
+            "description": "",
+            "file": {
+              "url": "//images.ctfassets.net/thw7s22mm0x1/6r1mCUWevZi2ZxpHIT6y0k/23c821a6460504f44aeca20dc381ba25/2BB11E8B-AC8C-46BD-B745-A86BDEC93138_1_201_a.jpg",
+              "details": {
+                "size": 841663,
+                "image": {
+                  "width": 2500,
+                  "height": 1875
+                }
+              },
+              "fileName": "2BB11E8B-AC8C-46BD-B745-A86BDEC93138_1_201_a.jpg",
+              "contentType": "image/jpeg"
+            }
+          }
+        },
+        {
+          "metadata": {
+            "tags": [],
+            "concepts": []
+          },
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "thw7s22mm0x1"
+              }
+            },
+            "id": "4JGjldPbfbqRQukUO8pWgh",
+            "type": "Asset",
+            "createdAt": "2025-02-04T15:20:37.851Z",
+            "updatedAt": "2025-02-04T15:20:37.851Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "publishedVersion": 3,
+            "revision": 1,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "IMG 6629",
+            "description": "",
+            "file": {
+              "url": "//images.ctfassets.net/thw7s22mm0x1/4JGjldPbfbqRQukUO8pWgh/a6a8318d2c67aa426300498e5cae70c9/IMG_6629.JPEG",
+              "details": {
+                "size": 1868998,
+                "image": {
+                  "width": 3178,
+                  "height": 2438
+                }
+              },
+              "fileName": "IMG_6629.JPEG",
+              "contentType": "image/jpeg"
+            }
+          }
+        }
+      ],
+      "category": "Portfolio",
+      "cover": "https://images.ctfassets.net/thw7s22mm0x1/34Mh5l16UAHiSZRZEizKb0/8db36bdbac97959a49c303426aee41e4/IMG_5455.JPEG"
+    }
+  }
+]

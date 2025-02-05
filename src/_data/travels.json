@@ -1,0 +1,376 @@
+[
+  {
+    "metadata": {
+      "tags": [],
+      "concepts": []
+    },
+    "sys": {
+      "space": {
+        "sys": {
+          "type": "Link",
+          "linkType": "Space",
+          "id": "thw7s22mm0x1"
+        }
+      },
+      "id": "2ja1GVw4d8gP8Mrsicwk9q",
+      "type": "Entry",
+      "createdAt": "2025-02-03T19:26:50.798Z",
+      "updatedAt": "2025-02-04T15:31:59.026Z",
+      "environment": {
+        "sys": {
+          "id": "master",
+          "type": "Link",
+          "linkType": "Environment"
+        }
+      },
+      "publishedVersion": 18,
+      "revision": 5,
+      "contentType": {
+        "sys": {
+          "type": "Link",
+          "linkType": "ContentType",
+          "id": "collection"
+        }
+      },
+      "locale": "en-US"
+    },
+    "fields": {
+      "title": "Sicily, Italy – History, Culture, and Italian Atmosphere",
+      "description": "From ancient Greek temples to medieval towns and Baroque cities, Sicily is a place where history comes alive. Walking through its streets, I discovered a mix of cultures that have shaped the island for centuries. Beyond the landmarks, Sicily’s charm is: the scent of fresh espresso, and the warmth of Italian hospitality. Sicily offers a unique blend of past and present.",
+      "photos": [
+        {
+          "metadata": {
+            "tags": [
+              {
+                "sys": {
+                  "type": "Link",
+                  "linkType": "Tag",
+                  "id": "cover"
+                }
+              }
+            ],
+            "concepts": []
+          },
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "thw7s22mm0x1"
+              }
+            },
+            "id": "DjF1ZuYUBhyHAN1Ct9Byc",
+            "type": "Asset",
+            "createdAt": "2025-02-03T19:26:41.629Z",
+            "updatedAt": "2025-02-04T07:04:34.573Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "publishedVersion": 5,
+            "revision": 2,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "89C0118D-85FF-4E9D-8AE8-A2A8BF628585 1 201 a",
+            "description": "",
+            "file": {
+              "url": "//images.ctfassets.net/thw7s22mm0x1/DjF1ZuYUBhyHAN1Ct9Byc/7548a8d9a29c94e0d1259733d75b2e28/89C0118D-85FF-4E9D-8AE8-A2A8BF628585_1_201_a.jpg",
+              "details": {
+                "size": 899954,
+                "image": {
+                  "width": 2500,
+                  "height": 1873
+                }
+              },
+              "fileName": "89C0118D-85FF-4E9D-8AE8-A2A8BF628585_1_201_a.jpg",
+              "contentType": "image/jpeg"
+            }
+          }
+        },
+        {
+          "metadata": {
+            "tags": [],
+            "concepts": []
+          },
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "thw7s22mm0x1"
+              }
+            },
+            "id": "anGKp0cteM7cbaxDKXwMR",
+            "type": "Asset",
+            "createdAt": "2025-02-03T19:26:41.633Z",
+            "updatedAt": "2025-02-03T19:26:41.633Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "publishedVersion": 3,
+            "revision": 1,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "DE41B8FF-43E1-4D07-8CE6-4465302EFABE 1 201 a",
+            "description": "",
+            "file": {
+              "url": "//images.ctfassets.net/thw7s22mm0x1/anGKp0cteM7cbaxDKXwMR/c3266ea9c309030ccef12b47b73b1bb8/DE41B8FF-43E1-4D07-8CE6-4465302EFABE_1_201_a.jpg",
+              "details": {
+                "size": 996401,
+                "image": {
+                  "width": 2500,
+                  "height": 1917
+                }
+              },
+              "fileName": "DE41B8FF-43E1-4D07-8CE6-4465302EFABE_1_201_a.jpg",
+              "contentType": "image/jpeg"
+            }
+          }
+        },
+        {
+          "metadata": {
+            "tags": [],
+            "concepts": []
+          },
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "thw7s22mm0x1"
+              }
+            },
+            "id": "7xvERpZokSnKgP1XGDz4Zz",
+            "type": "Asset",
+            "createdAt": "2025-02-03T19:26:41.631Z",
+            "updatedAt": "2025-02-03T19:26:41.631Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "publishedVersion": 3,
+            "revision": 1,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "448047D4-876B-4310-91E5-036F6BC1821F",
+            "description": "",
+            "file": {
+              "url": "//images.ctfassets.net/thw7s22mm0x1/7xvERpZokSnKgP1XGDz4Zz/21b407df7bd0389e8ab91513d71cf61c/448047D4-876B-4310-91E5-036F6BC1821F.jpg",
+              "details": {
+                "size": 1000100,
+                "image": {
+                  "width": 2500,
+                  "height": 1898
+                }
+              },
+              "fileName": "448047D4-876B-4310-91E5-036F6BC1821F.jpg",
+              "contentType": "image/jpeg"
+            }
+          }
+        }
+      ],
+      "category": "Travels",
+      "cover": "https://images.ctfassets.net/thw7s22mm0x1/DjF1ZuYUBhyHAN1Ct9Byc/7548a8d9a29c94e0d1259733d75b2e28/89C0118D-85FF-4E9D-8AE8-A2A8BF628585_1_201_a.jpg"
+    }
+  },
+  {
+    "metadata": {
+      "tags": [],
+      "concepts": []
+    },
+    "sys": {
+      "space": {
+        "sys": {
+          "type": "Link",
+          "linkType": "Space",
+          "id": "thw7s22mm0x1"
+        }
+      },
+      "id": "5FvlfbkrUVoZeu20ve13YH",
+      "type": "Entry",
+      "createdAt": "2025-02-03T19:26:50.611Z",
+      "updatedAt": "2025-02-04T15:25:33.119Z",
+      "environment": {
+        "sys": {
+          "id": "master",
+          "type": "Link",
+          "linkType": "Environment"
+        }
+      },
+      "publishedVersion": 18,
+      "revision": 5,
+      "contentType": {
+        "sys": {
+          "type": "Link",
+          "linkType": "ContentType",
+          "id": "collection"
+        }
+      },
+      "locale": "en-US"
+    },
+    "fields": {
+      "title": "Mauna Kea, Hawaii – Where Earth Meets the Stars!",
+      "description": "At 4,207 meters, Mauna Kea in Hawaii is not just an epic challenge for hikers—it's also home to some of the world’s most advanced telescopes, unlocking the secrets of the universe. Reaching the summit was an unforgettable experience, with breathtaking views and a surreal feeling of standing at the edge of space. Have you hiked Mauna Kea or visited an observatory? Let’s connect and share our experiences!",
+      "photos": [
+        {
+          "metadata": {
+            "tags": [
+              {
+                "sys": {
+                  "type": "Link",
+                  "linkType": "Tag",
+                  "id": "cover"
+                }
+              }
+            ],
+            "concepts": []
+          },
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "thw7s22mm0x1"
+              }
+            },
+            "id": "2xWoYfUq51xJS2b9frohhn",
+            "type": "Asset",
+            "createdAt": "2025-02-03T19:26:41.614Z",
+            "updatedAt": "2025-02-04T07:03:09.826Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "publishedVersion": 5,
+            "revision": 2,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "2979CC8F-4732-43A4-9006-B5B974282E35 1 201 a",
+            "description": "",
+            "file": {
+              "url": "//images.ctfassets.net/thw7s22mm0x1/2xWoYfUq51xJS2b9frohhn/8b98579cb9838b194d42464c2cb5b4a0/2979CC8F-4732-43A4-9006-B5B974282E35_1_201_a.jpg",
+              "details": {
+                "size": 961167,
+                "image": {
+                  "width": 2500,
+                  "height": 1875
+                }
+              },
+              "fileName": "2979CC8F-4732-43A4-9006-B5B974282E35_1_201_a.jpg",
+              "contentType": "image/jpeg"
+            }
+          }
+        },
+        {
+          "metadata": {
+            "tags": [],
+            "concepts": []
+          },
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "thw7s22mm0x1"
+              }
+            },
+            "id": "6C8sBM0HBCZCMuOhqnyxGu",
+            "type": "Asset",
+            "createdAt": "2025-02-03T19:26:41.619Z",
+            "updatedAt": "2025-02-04T07:04:34.580Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "publishedVersion": 7,
+            "revision": 3,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "261BA960-FBD2-4A1B-A2CA-F698C2CD0556 1 201 a",
+            "description": "",
+            "file": {
+              "url": "//images.ctfassets.net/thw7s22mm0x1/6C8sBM0HBCZCMuOhqnyxGu/9abcad899ddf4ffad31beca1b75e9135/261BA960-FBD2-4A1B-A2CA-F698C2CD0556_1_201_a.jpg",
+              "details": {
+                "size": 201132,
+                "image": {
+                  "width": 1280,
+                  "height": 960
+                }
+              },
+              "fileName": "261BA960-FBD2-4A1B-A2CA-F698C2CD0556_1_201_a.jpg",
+              "contentType": "image/jpeg"
+            }
+          }
+        },
+        {
+          "metadata": {
+            "tags": [],
+            "concepts": []
+          },
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "thw7s22mm0x1"
+              }
+            },
+            "id": "1GM9vX1r1X1LRUPzO6b9T2",
+            "type": "Asset",
+            "createdAt": "2025-02-03T19:26:41.617Z",
+            "updatedAt": "2025-02-03T19:26:41.617Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "publishedVersion": 3,
+            "revision": 1,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "DE1AEA33-06CF-4462-B06E-3D7EE15F1B03 1 201 a",
+            "description": "",
+            "file": {
+              "url": "//images.ctfassets.net/thw7s22mm0x1/1GM9vX1r1X1LRUPzO6b9T2/91e00efb2bafd606e9680299bdde40fb/DE1AEA33-06CF-4462-B06E-3D7EE15F1B03_1_201_a.jpg",
+              "details": {
+                "size": 833694,
+                "image": {
+                  "width": 2500,
+                  "height": 2150
+                }
+              },
+              "fileName": "DE1AEA33-06CF-4462-B06E-3D7EE15F1B03_1_201_a.jpg",
+              "contentType": "image/jpeg"
+            }
+          }
+        }
+      ],
+      "category": "Travels",
+      "cover": "https://images.ctfassets.net/thw7s22mm0x1/2xWoYfUq51xJS2b9frohhn/8b98579cb9838b194d42464c2cb5b4a0/2979CC8F-4732-43A4-9006-B5B974282E35_1_201_a.jpg"
+    }
+  }
+]
