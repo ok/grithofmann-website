@@ -3,4 +3,4 @@ title: Career
 layout: base.liquid
 ---
 
-Career page
+Contact page

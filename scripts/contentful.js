@@ -44,7 +44,7 @@ function processCollection(collection) {
 // Filter and store all portfolio collections
 function writePortfolioCollection (collections) {
   console.log(`✅ Processing Portfolio collection!`);
-  const filePath = "./src/_data/portfolio.json";
+  const filePath = "./src/_data/cf-portfolio.json";
 
   let portfolio = collections.filter(function (collection) {
     return collection.fields.category === "Portfolio";
@@ -57,7 +57,7 @@ function writePortfolioCollection (collections) {
 // Filter and store all run collections
 function writeRunsCollection (collections) {
   console.log(`✅ Processing Runs collection!`);
-  const filePath = "./src/_data/runs.json";
+  const filePath = "./src/_data/cf-runs.json";
 
   let runs = collections.filter(function (collection) {
     return collection.fields.category === "Runs";
@@ -70,7 +70,7 @@ function writeRunsCollection (collections) {
 // Filter and store all travel collections
 function writeTravelsCollection (collections) {
   console.log(`✅ Processing Travels collection!`);
-  const filePath = "./src/_data/travels.json";
+  const filePath = "./src/_data/cf-travels.json";
 
   let travels = collections.filter((collection) => collection.fields.category === "Travels");
   console.log("# travels collections: " + travels.length);
