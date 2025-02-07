@@ -10,15 +10,17 @@ const client = createClient({
   accessToken: process.env.CTFL_ACCESSTOKEN,
 });
 
+function getSlug(title) {
+  return title
+    .toLowerCase() // Convert to lowercase
+    .replace(/\s+/g, "-") // Replace spaces with dashes
+    .replace(/[^a-z0-9-]/g, ""); // Remove special characters
+}
+
 // Fetch and store collection data from Contentful
-async function fetchContent() {
+async function fetchCollection() {
   try {
     const entries = await client.getEntries({ content_type: "collection" });
-
-    const filePath = "./src/_data/cf-data.json";
-    await writeFile(filePath, JSON.stringify(entries.items, null, 2));
-    console.log(`✅ Collections fetched and saved to ${filePath}`);
-    // console.log("content: " + JSON.stringify(entries.items));
 
     return entries.items;
   } catch (error) {
@@ -26,8 +28,23 @@ async function fetchContent() {
   }
 };
 
+// Fetch and store collection data from Contentful
+async function storeCollection(collection) {
+  try {
+    const filePath = "./src/_data/cf-collections.json";
+    await writeFile(filePath, JSON.stringify(collection, null, 2));
+    console.log(`✅ Collections stored to ${filePath}`);
+    // console.log("content: " + JSON.stringify(entries.items));
+
+    return collection;
+  } catch (error) {
+    console.error("❌ Error fetching Contentful data:", error);
+  }
+};
+
 // Post processing for all collections
 function processCollection(collection) {
+  console.log(`✅ Processing all collections!`);
   collection.map(function(collection) {
     // store cover image for collection
     const coverPhoto = collection.fields?.photos.find(photo =>
@@ -36,6 +53,7 @@ function processCollection(collection) {
     if (coverPhoto) {
       collection.fields.cover = `https:${coverPhoto.fields?.file.url}` || null;
     }
+    collection.fields.slug = getSlug(collection.fields.title)
     return collection.fields;
   });
   return collection;
@@ -79,8 +97,9 @@ function writeTravelsCollection (collections) {
 };
 
 async function main() {
-  const collections = await fetchContent(); // Wait for fetch to complete
+  const collections = await fetchCollection(); // Wait for fetch to complete
   const processedCollections = processCollection(collections);
+  await storeCollection(processedCollections);
   // console.log("Processed Content:", processedCollections);
   writePortfolioCollection(processedCollections);
   writeTravelsCollection(processedCollections);

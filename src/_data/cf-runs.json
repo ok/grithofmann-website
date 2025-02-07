@@ -137,7 +137,8 @@
         }
       ],
       "category": "Runs",
-      "cover": "https://images.ctfassets.net/thw7s22mm0x1/5sfWdgoQp4qCW54dWFgdrU/63b7dd63a29b12d9c2666012da9ff1f1/IMG_1984.jpeg"
+      "cover": "https://images.ctfassets.net/thw7s22mm0x1/5sfWdgoQp4qCW54dWFgdrU/63b7dd63a29b12d9c2666012da9ff1f1/IMG_1984.jpeg",
+      "slug": "eugene---the-small-one"
     }
   },
   {
@@ -414,7 +415,8 @@
         }
       ],
       "category": "Runs",
-      "cover": "https://images.ctfassets.net/thw7s22mm0x1/4nsANXHPNOwjuMvryIHwKA/57162278c6b2c2a93272b55217eae62a/CIMG8954.JPG"
+      "cover": "https://images.ctfassets.net/thw7s22mm0x1/4nsANXHPNOwjuMvryIHwKA/57162278c6b2c2a93272b55217eae62a/CIMG8954.JPG",
+      "slug": "medoc---le-plus-long"
     }
   },
   {
@@ -510,7 +512,8 @@
         }
       ],
       "category": "Runs",
-      "cover": "https://images.ctfassets.net/thw7s22mm0x1/69H2GoIo5eTnwLcQXAcLlW/79b599d177e0a217648be2e0436a575d/HamburgMarathon.jpg"
+      "cover": "https://images.ctfassets.net/thw7s22mm0x1/69H2GoIo5eTnwLcQXAcLlW/79b599d177e0a217648be2e0436a575d/HamburgMarathon.jpg",
+      "slug": "hambourg---the-nordish"
     }
   },
   {
@@ -652,7 +655,8 @@
         }
       ],
       "category": "Runs",
-      "cover": "https://images.ctfassets.net/thw7s22mm0x1/72YlbkKpQ0hlC6byFk02UD/504ba6dfeb68930c675865839045018c/Berlin_marathon.jpg"
+      "cover": "https://images.ctfassets.net/thw7s22mm0x1/72YlbkKpQ0hlC6byFk02UD/504ba6dfeb68930c675865839045018c/Berlin_marathon.jpg",
+      "slug": "berlin---the-home-run"
     }
   },
   {
@@ -794,7 +798,8 @@
         }
       ],
       "category": "Runs",
-      "cover": "https://images.ctfassets.net/thw7s22mm0x1/6w2YRSOT52F3wzzOSIn69M/bcc26957cc370fb44b70fd75a22a3bac/8FD7673A-1174-4955-86B4-E0B53C3A57DA_1_201_a.jpg"
+      "cover": "https://images.ctfassets.net/thw7s22mm0x1/6w2YRSOT52F3wzzOSIn69M/bcc26957cc370fb44b70fd75a22a3bac/8FD7673A-1174-4955-86B4-E0B53C3A57DA_1_201_a.jpg",
+      "slug": "seville---el-personal-best"
     }
   }
 ]
