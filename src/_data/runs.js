@@ -7,8 +7,8 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
 // Read JSON manually
-const portfolio = JSON.parse(
-  readFileSync(join(__dirname, "runs.json"), "utf-8")
+const runs = JSON.parse(
+  readFileSync(join(__dirname, "cf-runs.json"), "utf-8")
 );
 
 function getSlug(title) {
@@ -18,8 +18,8 @@ function getSlug(title) {
     .replace(/[^a-z0-9-]/g, ""); // Remove special characters
 }
 
-const portfolioCollections = portfolio.map(collection => ({
+const runsCollections = runs.map(collection => ({
   ...collection, slug: getSlug(collection.fields.title)
 }));
 
-export default portfolioCollections;
+export default runsCollections;

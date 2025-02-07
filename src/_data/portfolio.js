@@ -22,8 +22,4 @@ const portfolioCollections = portfolio.map(collection => ({
   ...collection, slug: getSlug(collection.fields.title)
 }));
 
-console.log("Original Portfolio Data:", portfolio.length);
-console.log("Processed Portfolio Collections:", portfolioCollections.length);
-
-
 export default portfolioCollections;
