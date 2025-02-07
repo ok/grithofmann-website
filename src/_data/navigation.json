@@ -2,33 +2,39 @@
   "nav_items": [
     {
       "title": "Career",
-      "url": "/career",
-      "header": true
+      "url": "career",
+      "header": true,
+      "type": "page"
     },
     {
       "title": "Portfolio",
-      "url": "/portfolio",
-      "header": true
+      "url": "portfolio",
+      "header": true,
+      "type": "gallery"
     },
     {
       "title": "Travels",
-      "url": "/travels",
-      "header": true
+      "url": "travels",
+      "header": true,
+      "type": "gallery"
     },
     {
       "title": "Runs",
-      "url": "/runs",
-      "header": true
+      "url": "runs",
+      "header": true,
+      "type": "gallery"
     },
     {
       "title": "Contact",
-      "url": "/contact",
-      "header": true
+      "url": "contact",
+      "header": true,
+      "type": "page"
     },
     {
       "title": "Debug",
-      "url": "/debug",
-      "header": true
+      "url": "debug",
+      "header": true,
+      "type": "page"
     }
   ]
 }

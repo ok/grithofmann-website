@@ -1,0 +1,22 @@
+---
+pagination:
+  data: portfolio  # _data/portfolio.js
+  size: 100
+  alias: portfolioCollections
+permalink: "/{{ slug }}/"
+slug: "portfolio"
+layout: base.liquid
+title: Grit Hofmann - Portfolio
+---
+    <h1>Portfolio Collections</h1>
+
+    <section class="content">
+
+      <div class="container">
+        <h1 class="title">Collection</h1>
+        <code>{{ portfolioCollections.length }}</code>
+      </div>
+
+    </section>
+
+    {%- render "_collections.liquid", collections: portfolioCollections %}

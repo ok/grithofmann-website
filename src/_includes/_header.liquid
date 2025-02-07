@@ -17,7 +17,7 @@
           <div class="navbar-end">
           {%- for item in navigation.nav_items %}
             {%- if item.header %}
-            <a href="{{ item.url }}" class="navbar-item is-size-7 is-uppercase">{{ item.title }}</a>
+            <a href="/{{ item.url }}" class="navbar-item is-size-7 is-uppercase">{{ item.title }}</a>
             {%- endif %}
           {%- endfor %}
           </div>

@@ -15,7 +15,7 @@ async function fetchContent() {
   try {
     const entries = await client.getEntries({ content_type: "collection" });
 
-    const filePath = "./src/_data/cfdata.json";
+    const filePath = "./src/_data/cf-data.json";
     await writeFile(filePath, JSON.stringify(entries.items, null, 2));
     console.log(`✅ Collections fetched and saved to ${filePath}`);
     // console.log("content: " + JSON.stringify(entries.items));

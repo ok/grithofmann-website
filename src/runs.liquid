@@ -1,0 +1,13 @@
+---
+pagination:
+  data: runs  # _data/runs.js
+  size: 100
+  alias: runsCollections
+permalink: "/{{ slug }}/"
+slug: "runs"
+layout: base.liquid
+title: Grit Hofmann - Runs
+---
+    <h1>Runs Collections</h1>
+
+    {%- render "_collections.liquid", collections: runsCollections %}

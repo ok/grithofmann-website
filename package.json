@@ -11,7 +11,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "fetch": "node scripts/contentful.js",
     "build": "npm run fetch && eleventy",
-    "start": "npm run fetch && eleventy --serve"
+    "start": "npm run fetch && eleventy --serve",
+    "debug": "DEBUG=Eleventy* npm run fetch && eleventy"
   },
   "repository": {
     "type": "git",

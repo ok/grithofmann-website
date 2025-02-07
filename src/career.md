@@ -1,6 +1,6 @@
 ---
 title: Career
-layout: index.liquid
+layout: base.liquid
 ---
 
 Collections for career

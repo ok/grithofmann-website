@@ -1,14 +1,7 @@
----
-layout: base.liquid
-title: Grit Hofmann
----
-
 <section class="content mt-5">
-{{ content }}
-
   <div class="container fixed-grid has-3-cols has-1-cols-mobile">
     <div class="grid is-col-min-16 is-gap-3">
-    {%- for collection in contentful %}
+    {%- for collection in collections %}
       <div class="cell">
         <div class="card">
           <div class="card-content">
@@ -16,19 +9,18 @@ title: Grit Hofmann
               <figure class="image is-1by1">
                 <img
                   class="image"
-                  src="{{ collection.cover }}"
-                  alt=">{{ collection.title }}"
+                  src="{{ collection.fields.cover }}"
+                  alt="{{ collection.fields.title }}"
                 />
               </figure>
             </div>
           </div>
           <footer class="card-footer has-background-white">
-            <p class="card-footer-item is-4">{{ collection.title }}</p>
+            <p class="card-footer-item is-4">{{ collection.fields.title }}</p>
           </footer>
         </div>
       </div>
-    {%- endfor  %}
+    {%- endfor %}
     </div>
   </div>
-
 </section>

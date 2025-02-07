@@ -1,0 +1,13 @@
+---
+pagination:
+  data: travels  # _data/travels.js
+  size: 100
+  alias: travelsCollections
+permalink: "/{{ slug }}/"
+slug: "travels"
+layout: base.liquid
+title: Grit Hofmann - Travels
+---
+    <h1>Travels Collections</h1>
+
+    {%- render "_collections.liquid", collections: travelsCollections %}
