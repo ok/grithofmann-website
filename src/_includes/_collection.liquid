@@ -1,27 +1,23 @@
-<h1>{{ collection.fields.title }}</h1>
-
 <section class="content mt-5">
   <div class="container fixed-grid has-3-cols has-1-cols-mobile">
-    <div class="grid is-col-min-16 is-gap-3">
-    {%- for photo in collection.fields.photos %}
-      <div class="cell">
+    <div class="columns is-col-min-16 is-gap-3 is-flex-direction-row-reverse">
+      <div class="column is-3">
+        <h1 class="title is-4 is-uppercase">{{ collection.fields.title }}</h1>
+        <p>{{ collection.fields.description }}</p>
+      </div>
+      <div class="column is-9">
+      {%- for photo in collection.fields.photos %}
         <div class="card">
           <div class="card-content">
             <div class="card-image">
-              <a href="./{{ collection.fields.slug }}">
-              <figure class="image is-1by1">
-                <img
-                  class="image"
-                  src="{{ photo.fields.file.url }}"
-                  alt="{{ collection.fields.title }}"
-                />
+              <figure class="image">
+                <img src="{{ photo.fields.file.url }}" alt="{{ collection.fields.title }}"/>
               </figure>
-              </a>
             </div>
           </div>
         </div>
+      {%- endfor %}
       </div>
-    {%- endfor %}
     </div>
   </div>
 </section>
