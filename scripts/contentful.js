@@ -17,6 +17,12 @@ function getSlug(title) {
     .replace(/[^a-z0-9-]/g, ""); // Remove special characters
 }
 
+function getVideoId(url) {
+  var regExp = /^.*((youtu.be\/)|(v\/)|(\/u\/\w\/)|(embed\/)|(watch\?))\??v?=?([^#&?]*).*/;
+  var match = url.match(regExp);
+  return (match&&match[7].length==11)? match[7] : false;
+}
+
 // Fetch and store collection data from Contentful
 async function fetchCollection() {
   try {
@@ -54,6 +60,9 @@ function processCollection(collection) {
       collection.fields.cover = `https:${coverPhoto.fields?.file.url}` || null;
     }
     collection.fields.slug = getSlug(collection.fields.title)
+    if (collection.fields.video) {
+      collection.fields.videoId = getVideoId(collection.fields.video);
+    }
     return collection.fields;
   });
   return collection;

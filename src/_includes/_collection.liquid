@@ -6,6 +6,9 @@
         <p>{{ collection.fields.description }}</p>
       </div>
       <div class="column is-9">
+      {%- if collection.fields.video %}
+        <iframe class="is-aspect-ratio-16by9 mb-3" width="100%" src="https://www.youtube-nocookie.com/embed/{{ collection.fields.videoId }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      {%- endif %}
       {%- for photo in collection.fields.photos %}
         <div class="card">
           <div class="card-content">
