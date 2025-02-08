@@ -37,17 +37,14 @@ a.navbar-item {
   border-radius: 0px;
 }
 
+.video {
+  background-color: rgb(247, 248, 250);
+  box-shadow: 0 3px 5px 0 rgba(0, 0, 0, .1);
+  border-radius: 0px;
+}
+
 .card-content {
   padding: 0;
-}
-
-.cover {
-  object-fit: cover;
-  transition: all .2s ease-out;
-}
-
-.cover:hover {
-  transform: scale(1.01);
 }
 
 .card-content:last-child, 
@@ -57,9 +54,17 @@ a.navbar-item {
   border-radius: 0px;
 }
 
-
 .card-header {
   box-shadow: none;
+}
+
+.cover {
+  object-fit: cover;
+  transition: all .2s ease-out;
+}
+
+.cover:hover {
+  transform: scale(1.01);
 }
 
 .brand-image {
