@@ -13,7 +13,6 @@ export default {
     purgecss({
       content: [
         "./src/**/*.liquid",
-        "./src/**/*.njk",
         "./src/**/*.html",
         "./src/**/*.md",
         "./src/**/*.js",
