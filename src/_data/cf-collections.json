@@ -12,6 +12,286 @@
           "id": "thw7s22mm0x1"
         }
       },
+      "id": "aTrNZIg6VR19ZOtalkBhT",
+      "type": "Entry",
+      "createdAt": "2025-02-04T16:08:10.718Z",
+      "updatedAt": "2025-02-08T23:21:40.742Z",
+      "environment": {
+        "sys": {
+          "id": "master",
+          "type": "Link",
+          "linkType": "Environment"
+        }
+      },
+      "publishedVersion": 18,
+      "revision": 2,
+      "contentType": {
+        "sys": {
+          "type": "Link",
+          "linkType": "ContentType",
+          "id": "collection"
+        }
+      },
+      "locale": "en-US"
+    },
+    "fields": {
+      "title": "Cameroon - Guns for Motorbikes",
+      "description": "In Cameroon’s Korup National Park, local communities have relied on the forest for centuries, including hunting wildlife for food. Legal and moral restrictions alone do not stop the practice, as it remains a key part of their daily lives.\n\nDuring my filming trip, I joined NGOs working on sustainable forestry and wildlife management, aiming to balance conservation efforts with local needs. Learn about how in my film. ",
+      "video": "https://www.youtube.com/watch?v=iF583IdNPjA",
+      "photos": [
+        {
+          "metadata": {
+            "tags": [
+              {
+                "sys": {
+                  "type": "Link",
+                  "linkType": "Tag",
+                  "id": "cover"
+                }
+              }
+            ],
+            "concepts": []
+          },
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "thw7s22mm0x1"
+              }
+            },
+            "id": "6h3FYxXK8MbpPcinStmMdC",
+            "type": "Asset",
+            "createdAt": "2025-02-04T16:02:22.782Z",
+            "updatedAt": "2025-02-04T16:02:29.966Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "publishedVersion": 5,
+            "revision": 2,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "9CF3C12D-A4DD-4948-A53B-AC963F2CA941 1 101 a",
+            "description": "",
+            "file": {
+              "url": "//images.ctfassets.net/thw7s22mm0x1/6h3FYxXK8MbpPcinStmMdC/894d2104c25bf930b3761c69b23e9407/9CF3C12D-A4DD-4948-A53B-AC963F2CA941_1_101_a.jpeg",
+              "details": {
+                "size": 417285,
+                "image": {
+                  "width": 1280,
+                  "height": 959
+                }
+              },
+              "fileName": "9CF3C12D-A4DD-4948-A53B-AC963F2CA941_1_101_a.jpeg",
+              "contentType": "image/jpeg"
+            }
+          }
+        },
+        {
+          "metadata": {
+            "tags": [],
+            "concepts": []
+          },
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "thw7s22mm0x1"
+              }
+            },
+            "id": "55exMuxmPoCoPlwKLTygsZ",
+            "type": "Asset",
+            "createdAt": "2025-02-04T16:02:02.756Z",
+            "updatedAt": "2025-02-04T16:02:02.756Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "publishedVersion": 3,
+            "revision": 1,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "0DAFCACA-31B6-4CB6-BC38-453397A81C7D",
+            "description": "",
+            "file": {
+              "url": "//images.ctfassets.net/thw7s22mm0x1/55exMuxmPoCoPlwKLTygsZ/2753216e009c42d11d4670e2e2aa2baa/0DAFCACA-31B6-4CB6-BC38-453397A81C7D.jpeg",
+              "details": {
+                "size": 878196,
+                "image": {
+                  "width": 2500,
+                  "height": 1875
+                }
+              },
+              "fileName": "0DAFCACA-31B6-4CB6-BC38-453397A81C7D.jpeg",
+              "contentType": "image/jpeg"
+            }
+          }
+        },
+        {
+          "metadata": {
+            "tags": [],
+            "concepts": []
+          },
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "thw7s22mm0x1"
+              }
+            },
+            "id": "6kN84DkIIw2MIyudbYkZLR",
+            "type": "Asset",
+            "createdAt": "2025-02-04T16:04:45.765Z",
+            "updatedAt": "2025-02-04T16:04:45.765Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "publishedVersion": 3,
+            "revision": 1,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "C0950AB1-80E0-4803-8E8E-5E3D9B5BEF8F",
+            "description": "",
+            "file": {
+              "url": "//images.ctfassets.net/thw7s22mm0x1/6kN84DkIIw2MIyudbYkZLR/7fd5bf9093faca2f88ea24af8e643cca/C0950AB1-80E0-4803-8E8E-5E3D9B5BEF8F.jpeg",
+              "details": {
+                "size": 711150,
+                "image": {
+                  "width": 2500,
+                  "height": 1875
+                }
+              },
+              "fileName": "C0950AB1-80E0-4803-8E8E-5E3D9B5BEF8F.jpeg",
+              "contentType": "image/jpeg"
+            }
+          }
+        },
+        {
+          "metadata": {
+            "tags": [],
+            "concepts": []
+          },
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "thw7s22mm0x1"
+              }
+            },
+            "id": "4Llfk1LqY7O8t1UVGnEdp3",
+            "type": "Asset",
+            "createdAt": "2025-02-04T16:07:10.241Z",
+            "updatedAt": "2025-02-04T16:07:10.241Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "publishedVersion": 3,
+            "revision": 1,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "IMG 3279",
+            "description": "",
+            "file": {
+              "url": "//images.ctfassets.net/thw7s22mm0x1/4Llfk1LqY7O8t1UVGnEdp3/ded5aa022ad1f7435924d2e528395bd3/IMG_3279.JPEG",
+              "details": {
+                "size": 3887779,
+                "image": {
+                  "width": 3264,
+                  "height": 2448
+                }
+              },
+              "fileName": "IMG_3279.JPEG",
+              "contentType": "image/jpeg"
+            }
+          }
+        },
+        {
+          "metadata": {
+            "tags": [],
+            "concepts": []
+          },
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "thw7s22mm0x1"
+              }
+            },
+            "id": "1DZYIhHOp6GfGr1FDGrUjg",
+            "type": "Asset",
+            "createdAt": "2025-02-04T16:07:51.697Z",
+            "updatedAt": "2025-02-04T16:07:51.697Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "publishedVersion": 3,
+            "revision": 1,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "IMG 3068",
+            "description": "",
+            "file": {
+              "url": "//images.ctfassets.net/thw7s22mm0x1/1DZYIhHOp6GfGr1FDGrUjg/75e630539ad01f20df7622450ebeaa21/IMG_3068.JPEG",
+              "details": {
+                "size": 3368403,
+                "image": {
+                  "width": 3264,
+                  "height": 2448
+                }
+              },
+              "fileName": "IMG_3068.JPEG",
+              "contentType": "image/jpeg"
+            }
+          }
+        }
+      ],
+      "category": "Portfolio",
+      "cover": "https://images.ctfassets.net/thw7s22mm0x1/6h3FYxXK8MbpPcinStmMdC/894d2104c25bf930b3761c69b23e9407/9CF3C12D-A4DD-4948-A53B-AC963F2CA941_1_101_a.jpeg",
+      "slug": "cameroon---guns-for-motorbikes",
+      "videoId": "iF583IdNPjA"
+    }
+  },
+  {
+    "metadata": {
+      "tags": [],
+      "concepts": []
+    },
+    "sys": {
+      "space": {
+        "sys": {
+          "type": "Link",
+          "linkType": "Space",
+          "id": "thw7s22mm0x1"
+        }
+      },
       "id": "0t5RopC1HRVOUEjHx4olZ",
       "type": "Entry",
       "createdAt": "2025-02-05T22:03:00.140Z",
@@ -3363,286 +3643,6 @@
       "category": "Travels",
       "cover": "https://images.ctfassets.net/thw7s22mm0x1/1sNvudM9PYb0fJB1zysj5q/5bc70644711f6bb7bc1e5da541b599e0/E92D10C7-5CA5-4C3D-971E-7B71810D214B_1_201_a.jpeg",
       "slug": "hawaii--where-earth-meets-the-stars"
-    }
-  },
-  {
-    "metadata": {
-      "tags": [],
-      "concepts": []
-    },
-    "sys": {
-      "space": {
-        "sys": {
-          "type": "Link",
-          "linkType": "Space",
-          "id": "thw7s22mm0x1"
-        }
-      },
-      "id": "aTrNZIg6VR19ZOtalkBhT",
-      "type": "Entry",
-      "createdAt": "2025-02-04T16:08:10.718Z",
-      "updatedAt": "2025-02-04T16:08:10.718Z",
-      "environment": {
-        "sys": {
-          "id": "master",
-          "type": "Link",
-          "linkType": "Environment"
-        }
-      },
-      "publishedVersion": 16,
-      "revision": 1,
-      "contentType": {
-        "sys": {
-          "type": "Link",
-          "linkType": "ContentType",
-          "id": "collection"
-        }
-      },
-      "locale": "en-US"
-    },
-    "fields": {
-      "title": "Cameroon - Guns for Motorbikes",
-      "description": "In Cameroon’s Korup National Park, local communities have relied on the forest for centuries, including hunting wildlife for food. Legal and moral restrictions alone do not stop the practice, as it remains a key part of their daily lives.\n\nDuring my filming trip, I joined NGOs working on sustainable forestry and wildlife management, aiming to balance conservation efforts with local needs. Learn about how in my film. ",
-      "video": "https://www.youtube.com/watch?v=iF583IdNPjA&t=12s",
-      "photos": [
-        {
-          "metadata": {
-            "tags": [
-              {
-                "sys": {
-                  "type": "Link",
-                  "linkType": "Tag",
-                  "id": "cover"
-                }
-              }
-            ],
-            "concepts": []
-          },
-          "sys": {
-            "space": {
-              "sys": {
-                "type": "Link",
-                "linkType": "Space",
-                "id": "thw7s22mm0x1"
-              }
-            },
-            "id": "6h3FYxXK8MbpPcinStmMdC",
-            "type": "Asset",
-            "createdAt": "2025-02-04T16:02:22.782Z",
-            "updatedAt": "2025-02-04T16:02:29.966Z",
-            "environment": {
-              "sys": {
-                "id": "master",
-                "type": "Link",
-                "linkType": "Environment"
-              }
-            },
-            "publishedVersion": 5,
-            "revision": 2,
-            "locale": "en-US"
-          },
-          "fields": {
-            "title": "9CF3C12D-A4DD-4948-A53B-AC963F2CA941 1 101 a",
-            "description": "",
-            "file": {
-              "url": "//images.ctfassets.net/thw7s22mm0x1/6h3FYxXK8MbpPcinStmMdC/894d2104c25bf930b3761c69b23e9407/9CF3C12D-A4DD-4948-A53B-AC963F2CA941_1_101_a.jpeg",
-              "details": {
-                "size": 417285,
-                "image": {
-                  "width": 1280,
-                  "height": 959
-                }
-              },
-              "fileName": "9CF3C12D-A4DD-4948-A53B-AC963F2CA941_1_101_a.jpeg",
-              "contentType": "image/jpeg"
-            }
-          }
-        },
-        {
-          "metadata": {
-            "tags": [],
-            "concepts": []
-          },
-          "sys": {
-            "space": {
-              "sys": {
-                "type": "Link",
-                "linkType": "Space",
-                "id": "thw7s22mm0x1"
-              }
-            },
-            "id": "55exMuxmPoCoPlwKLTygsZ",
-            "type": "Asset",
-            "createdAt": "2025-02-04T16:02:02.756Z",
-            "updatedAt": "2025-02-04T16:02:02.756Z",
-            "environment": {
-              "sys": {
-                "id": "master",
-                "type": "Link",
-                "linkType": "Environment"
-              }
-            },
-            "publishedVersion": 3,
-            "revision": 1,
-            "locale": "en-US"
-          },
-          "fields": {
-            "title": "0DAFCACA-31B6-4CB6-BC38-453397A81C7D",
-            "description": "",
-            "file": {
-              "url": "//images.ctfassets.net/thw7s22mm0x1/55exMuxmPoCoPlwKLTygsZ/2753216e009c42d11d4670e2e2aa2baa/0DAFCACA-31B6-4CB6-BC38-453397A81C7D.jpeg",
-              "details": {
-                "size": 878196,
-                "image": {
-                  "width": 2500,
-                  "height": 1875
-                }
-              },
-              "fileName": "0DAFCACA-31B6-4CB6-BC38-453397A81C7D.jpeg",
-              "contentType": "image/jpeg"
-            }
-          }
-        },
-        {
-          "metadata": {
-            "tags": [],
-            "concepts": []
-          },
-          "sys": {
-            "space": {
-              "sys": {
-                "type": "Link",
-                "linkType": "Space",
-                "id": "thw7s22mm0x1"
-              }
-            },
-            "id": "6kN84DkIIw2MIyudbYkZLR",
-            "type": "Asset",
-            "createdAt": "2025-02-04T16:04:45.765Z",
-            "updatedAt": "2025-02-04T16:04:45.765Z",
-            "environment": {
-              "sys": {
-                "id": "master",
-                "type": "Link",
-                "linkType": "Environment"
-              }
-            },
-            "publishedVersion": 3,
-            "revision": 1,
-            "locale": "en-US"
-          },
-          "fields": {
-            "title": "C0950AB1-80E0-4803-8E8E-5E3D9B5BEF8F",
-            "description": "",
-            "file": {
-              "url": "//images.ctfassets.net/thw7s22mm0x1/6kN84DkIIw2MIyudbYkZLR/7fd5bf9093faca2f88ea24af8e643cca/C0950AB1-80E0-4803-8E8E-5E3D9B5BEF8F.jpeg",
-              "details": {
-                "size": 711150,
-                "image": {
-                  "width": 2500,
-                  "height": 1875
-                }
-              },
-              "fileName": "C0950AB1-80E0-4803-8E8E-5E3D9B5BEF8F.jpeg",
-              "contentType": "image/jpeg"
-            }
-          }
-        },
-        {
-          "metadata": {
-            "tags": [],
-            "concepts": []
-          },
-          "sys": {
-            "space": {
-              "sys": {
-                "type": "Link",
-                "linkType": "Space",
-                "id": "thw7s22mm0x1"
-              }
-            },
-            "id": "4Llfk1LqY7O8t1UVGnEdp3",
-            "type": "Asset",
-            "createdAt": "2025-02-04T16:07:10.241Z",
-            "updatedAt": "2025-02-04T16:07:10.241Z",
-            "environment": {
-              "sys": {
-                "id": "master",
-                "type": "Link",
-                "linkType": "Environment"
-              }
-            },
-            "publishedVersion": 3,
-            "revision": 1,
-            "locale": "en-US"
-          },
-          "fields": {
-            "title": "IMG 3279",
-            "description": "",
-            "file": {
-              "url": "//images.ctfassets.net/thw7s22mm0x1/4Llfk1LqY7O8t1UVGnEdp3/ded5aa022ad1f7435924d2e528395bd3/IMG_3279.JPEG",
-              "details": {
-                "size": 3887779,
-                "image": {
-                  "width": 3264,
-                  "height": 2448
-                }
-              },
-              "fileName": "IMG_3279.JPEG",
-              "contentType": "image/jpeg"
-            }
-          }
-        },
-        {
-          "metadata": {
-            "tags": [],
-            "concepts": []
-          },
-          "sys": {
-            "space": {
-              "sys": {
-                "type": "Link",
-                "linkType": "Space",
-                "id": "thw7s22mm0x1"
-              }
-            },
-            "id": "1DZYIhHOp6GfGr1FDGrUjg",
-            "type": "Asset",
-            "createdAt": "2025-02-04T16:07:51.697Z",
-            "updatedAt": "2025-02-04T16:07:51.697Z",
-            "environment": {
-              "sys": {
-                "id": "master",
-                "type": "Link",
-                "linkType": "Environment"
-              }
-            },
-            "publishedVersion": 3,
-            "revision": 1,
-            "locale": "en-US"
-          },
-          "fields": {
-            "title": "IMG 3068",
-            "description": "",
-            "file": {
-              "url": "//images.ctfassets.net/thw7s22mm0x1/1DZYIhHOp6GfGr1FDGrUjg/75e630539ad01f20df7622450ebeaa21/IMG_3068.JPEG",
-              "details": {
-                "size": 3368403,
-                "image": {
-                  "width": 3264,
-                  "height": 2448
-                }
-              },
-              "fileName": "IMG_3068.JPEG",
-              "contentType": "image/jpeg"
-            }
-          }
-        }
-      ],
-      "category": "Portfolio",
-      "cover": "https://images.ctfassets.net/thw7s22mm0x1/6h3FYxXK8MbpPcinStmMdC/894d2104c25bf930b3761c69b23e9407/9CF3C12D-A4DD-4948-A53B-AC963F2CA941_1_101_a.jpeg",
-      "slug": "cameroon---guns-for-motorbikes",
-      "videoId": "iF583IdNPjA"
     }
   },
   {
