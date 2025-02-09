@@ -5,10 +5,10 @@
       <div class="cell">
         <div class="card">
           <div class="card-content">
-            <div class="card-image">
-              <a href="./{{ collection.fields.slug }}">
+            <div class="card-image is-overflow-hidden">
+              <a href="/{{ collection.fields.category | slugify }}/{{ collection.fields.slug }}">
                 <figure class="image cover is-1by1">
-                  <img src="{{ collection.fields.cover }}" alt="{{ collection.fields.title }}"/>
+                  <img class="image" src="{{ collection.fields.cover }}" alt="{{ collection.fields.title }}"/>
                 </figure>
               </a>
             </div>

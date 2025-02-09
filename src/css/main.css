@@ -28,6 +28,11 @@ div.canvas{
   }
 }
 
+.image {
+  object-fit: cover;
+  transition: all .2s ease-out;
+}
+
 .card {
   background-color: rgb(247, 248, 250);
   box-shadow: 0 3px 5px 0 rgba(0, 0, 0, .1);
@@ -61,7 +66,7 @@ div.canvas{
 }
 
 .cover:hover {
-  transform: scale(1.01);
+  transform: scale(1.02);
 }
 
 .brand-image {

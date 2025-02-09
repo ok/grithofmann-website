@@ -3,7 +3,6 @@ pagination:
   data: cf-collections  # _data/cf-collections.json
   size: 1
   alias: collection
-# permalink: "/collection/{{ pagination.pageNumber }}.html"
 permalink: "{{ collection.fields.category | slugify }}/{{ collection.fields.slug }}.html"
 layout: base.liquid
 title: Grit Hofmann - Portfolio - {{ collection.fields.title }}
