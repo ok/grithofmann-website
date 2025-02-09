@@ -2,13 +2,13 @@
 layout: base.liquid
 title: Grit Hofmann
 ---
+    <section class="content">
+      <p class="is-size-4">Debug</p>
+    </section>
 
-<section class="content">
-{{ content }}
-
-  <div class="container">
-    <h1 class="title">Collection</h1>
-    <code>{{ cf-collections | json }}</code>
-  </div>
-
-</section>
+    <section class="content">
+      <div class="container">
+        <p>cf-collection:</p>
+        <code>{{ cf-collections | json }}</code>
+      </div>
+    </section>
