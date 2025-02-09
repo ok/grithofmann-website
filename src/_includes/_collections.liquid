@@ -1,24 +1,24 @@
-<section class="content mt-5">
-  <div class="container fixed-grid has-3-cols has-1-cols-mobile">
-    <div class="grid is-col-min-16 is-gap-3">
-    {%- for collection in collections %}
-      <div class="cell">
-        <div class="card">
-          <div class="card-content">
-            <div class="card-image is-overflow-hidden">
-              <a href="/{{ collection.fields.category | slugify }}/{{ collection.fields.slug }}">
-                <figure class="image cover is-1by1">
-                  <img class="image" src="{{ collection.fields.cover }}" alt="{{ collection.fields.title }}"/>
-                </figure>
-              </a>
+    <section class="content mt-5">
+      <div class="container fixed-grid has-3-cols has-1-cols-mobile">
+        <div class="grid is-col-min-16 is-gap-3">
+        {%- for collection in collections %}
+          <div class="cell">
+            <div class="card">
+              <div class="card-content">
+                <div class="card-image is-overflow-hidden">
+                  <a href="/{{ collection.fields.category | slugify }}/{{ collection.fields.slug }}">
+                    <figure class="image cover is-1by1">
+                      <img class="image" src="{{ collection.fields.cover }}" alt="{{ collection.fields.title }}"/>
+                    </figure>
+                  </a>
+                </div>
+              </div>
+              <footer class="card-footer has-background-white">
+                <p class="card-footer-item is-4">{{ collection.fields.title }}</p>
+              </footer>
             </div>
           </div>
-          <footer class="card-footer has-background-white">
-            <p class="card-footer-item is-4">{{ collection.fields.title }}</p>
-          </footer>
+        {%- endfor %}
         </div>
       </div>
-    {%- endfor %}
-    </div>
-  </div>
-</section>
+    </section>
