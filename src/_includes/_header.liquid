@@ -20,6 +20,9 @@
             <a href="/{{ item.url }}" class="navbar-item is-size-6 is-uppercase">{{ item.title }}</a>
             {%- endif %}
           {%- endfor %}
+          {%- if site.environment == "development" %}
+            <a href="/debug" class="navbar-item is-size-6 is-uppercase">Debug</a>
+          {%- endif %}
           </div>
         </div>
       </nav>
