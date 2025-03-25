@@ -17,7 +17,8 @@
           <div class="navbar-end has-text-centered">
           {%- for item in navigation.nav_items %}
             {%- if item.header %}
-            <a href="/{{ item.url }}" class="navbar-item is-size-6 is-uppercase">{{ item.title }}</a>
+              {% assign item_slug = item.title | downcase %}
+              <a href="/{{ item.url }}" class="navbar-item is-size-6 is-uppercase{% if page.fileSlug == item_slug %} active{% endif %}">{{ item.title }}</a>
             {%- endif %}
           {%- endfor %}
           {%- if site.environment == "development" %}

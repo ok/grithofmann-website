@@ -28,6 +28,16 @@ div.canvas{
   }
 }
 
+.navbar-menu .navbar-item:hover {
+  text-decoration: underline;
+  background-color: transparent;
+}
+
+.navbar-menu .navbar-item.active {
+  text-decoration: underline;
+  background-color: transparent;
+}
+
 .image {
   object-fit: cover;
   transition: all .2s ease-out;
