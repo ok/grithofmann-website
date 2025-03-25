@@ -10,6 +10,7 @@ const client = createClient({
   accessToken: process.env.CTFL_ACCESSTOKEN,
 });
 
+// Generate slug from title 
 function getSlug(title) {
   return title
     .toLowerCase() // Convert to lowercase
@@ -17,6 +18,7 @@ function getSlug(title) {
     .replace(/[^a-z0-9-]/g, ""); // Remove special characters
 }
 
+// Extract video ID from YT URL in various formats
 function getVideoId(url) {
   var regExp = /^.*((youtu.be\/)|(v\/)|(\/u\/\w\/)|(embed\/)|(watch\?))\??v?=?([^#&?]*).*/;
   var match = url.match(regExp);
@@ -24,9 +26,9 @@ function getVideoId(url) {
 }
 
 // Fetch and store collection data from Contentful
-async function fetchCollection() {
+async function fetchContent(type) {
   try {
-    const entries = await client.getEntries({ content_type: "collection" });
+    const entries = await client.getEntries({ content_type: type });
 
     return entries.items;
   } catch (error) {
@@ -35,16 +37,17 @@ async function fetchCollection() {
 };
 
 // Fetch and store collection data from Contentful
-async function storeCollection(collection) {
+async function storeContent(content, name) {
   try {
-    const filePath = "./src/_data/cf-collections.json";
-    await writeFile(filePath, JSON.stringify(collection, null, 2));
-    console.log(`✅ Collections stored to ${filePath}`);
+    console.log("content: " + JSON.stringify(content));
+    const filePath = `./src/_data/cf-${name}.json`;
+    await writeFile(filePath, JSON.stringify(content, null, 2));
+    console.log(`✅ Content stored to ${filePath}`);
     // console.log("content: " + JSON.stringify(entries.items));
 
-    return collection;
+    return content;
   } catch (error) {
-    console.error("❌ Error fetching Contentful data:", error);
+    console.error("❌ Error storing Contentful data:", error);
   }
 };
 
@@ -73,9 +76,7 @@ function writePortfolioCollection (collections) {
   console.log(`✅ Processing Portfolio collection!`);
   const filePath = "./src/_data/cf-portfolio.json";
 
-  let portfolio = collections.filter(function (collection) {
-    return collection.fields.category === "Portfolio";
-  })
+  let portfolio = collections.filter((collection) => collection.fields.category === "Portfolio" );
   console.log("# portfolio collections: " + portfolio.length);
   writeFile(filePath, JSON.stringify(portfolio, null, 2));
   console.log(`✅ Portfolio collection saved to ${filePath}`);
@@ -86,9 +87,7 @@ function writeRunsCollection (collections) {
   console.log(`✅ Processing Runs collection!`);
   const filePath = "./src/_data/cf-runs.json";
 
-  let runs = collections.filter(function (collection) {
-    return collection.fields.category === "Runs";
-  })
+  let runs = collections.filter((collection) => collection.fields.category === "Runs" );
   console.log("# runs collections: " + runs.length);
   writeFile(filePath, JSON.stringify(runs, null, 2));
   console.log(`✅ Runs collection saved to ${filePath}`);
@@ -105,14 +104,37 @@ function writeTravelsCollection (collections) {
   console.log(`✅ Travels collection saved to ${filePath}`);
 };
 
+// Post processing for all collections
+function processPage(pages) {
+  console.log(`✅ Processing all pages!`);
+  pages.map(function(page) {
+    page.fields.links.map(function(link) {
+      const coverPhoto = link.fields.image;
+
+      if (coverPhoto) {
+        link.fields.cover = coverPhoto.fields.file.url || "cover"; 
+      }
+    });
+    return page.fields;
+  });
+  return pages;
+};
+
 async function main() {
-  const collections = await fetchCollection(); // Wait for fetch to complete
+  // Fetch Collections from CF and store clean version
+  const collections = await fetchContent("collection"); // Wait for fetch to complete
   const processedCollections = processCollection(collections);
-  await storeCollection(processedCollections);
+  await storeContent(collections, "collections");
+  
   // console.log("Processed Content:", processedCollections);
   writePortfolioCollection(processedCollections);
   writeTravelsCollection(processedCollections);
   writeRunsCollection(processedCollections);
+
+  // Fetch Pages from CF and store clean version
+  const pages = await fetchContent("page"); // Wait for fetch to complete
+  const processedPages = processPage(pages);
+  await storeContent(processedPages, "pages");
 }
 
 main(); // Run the async function

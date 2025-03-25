@@ -1,0 +1,388 @@
+[
+  {
+    "metadata": {
+      "tags": [],
+      "concepts": []
+    },
+    "sys": {
+      "space": {
+        "sys": {
+          "type": "Link",
+          "linkType": "Space",
+          "id": "thw7s22mm0x1"
+        }
+      },
+      "id": "23bWU4D2yAH7vOhtHERovo",
+      "type": "Entry",
+      "createdAt": "2025-03-25T09:49:18.183Z",
+      "updatedAt": "2025-03-25T09:49:18.183Z",
+      "environment": {
+        "sys": {
+          "id": "master",
+          "type": "Link",
+          "linkType": "Environment"
+        }
+      },
+      "publishedVersion": 15,
+      "revision": 1,
+      "contentType": {
+        "sys": {
+          "type": "Link",
+          "linkType": "ContentType",
+          "id": "page"
+        }
+      },
+      "locale": "en-US"
+    },
+    "fields": {
+      "title": "Homepage",
+      "text": "Raised south of Berlin and shaped by Germany’s reunification, I’ve built my path from journalist and video reporter to program and portfolio manager at Deutsche Welle, Germany’s international broadcaster. My work spans editorial leadership on video shows, cross-functional collaboration, and digital product development — always driven by a passion to learn and build.\n\nTravel is one of my greatest passions — it fuels my curiosity, broadens my perspective, and inspires the stories I tell. Whether on assignment or off the beaten path, I’m always looking for new angles, new ideas, and new horizons.\nMarathon running keeps me grounded — a reminder that discipline, endurance, and personal growth are at the heart of everything I do.\n\nI live in Berlin with my partner and our son.",
+      "links": [
+        {
+          "metadata": {
+            "tags": [],
+            "concepts": []
+          },
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "thw7s22mm0x1"
+              }
+            },
+            "id": "6x8hnMe76eQeEZF35gyHoC",
+            "type": "Entry",
+            "createdAt": "2025-03-25T09:49:18.223Z",
+            "updatedAt": "2025-03-25T09:49:18.223Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "publishedVersion": 6,
+            "revision": 1,
+            "contentType": {
+              "sys": {
+                "type": "Link",
+                "linkType": "ContentType",
+                "id": "homeNav"
+              }
+            },
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "My Work at DW: From Storytelling to Strategy",
+            "image": {
+              "metadata": {
+                "tags": [],
+                "concepts": []
+              },
+              "sys": {
+                "space": {
+                  "sys": {
+                    "type": "Link",
+                    "linkType": "Space",
+                    "id": "thw7s22mm0x1"
+                  }
+                },
+                "id": "3TtsoyJUPeXd5U6azWhMCY",
+                "type": "Asset",
+                "createdAt": "2025-02-10T21:26:37.721Z",
+                "updatedAt": "2025-02-10T21:26:37.721Z",
+                "environment": {
+                  "sys": {
+                    "id": "master",
+                    "type": "Link",
+                    "linkType": "Environment"
+                  }
+                },
+                "publishedVersion": 3,
+                "revision": 1,
+                "locale": "en-US"
+              },
+              "fields": {
+                "title": "P1010039",
+                "description": "",
+                "file": {
+                  "url": "//images.ctfassets.net/thw7s22mm0x1/3TtsoyJUPeXd5U6azWhMCY/dc54e9973e5ea3df840d476a78da770f/P1010039.JPG",
+                  "details": {
+                    "size": 3173376,
+                    "image": {
+                      "width": 2560,
+                      "height": 1920
+                    }
+                  },
+                  "fileName": "P1010039.JPG",
+                  "contentType": "image/jpeg"
+                }
+              }
+            },
+            "link": "/career",
+            "cover": "//images.ctfassets.net/thw7s22mm0x1/3TtsoyJUPeXd5U6azWhMCY/dc54e9973e5ea3df840d476a78da770f/P1010039.JPG"
+          }
+        },
+        {
+          "metadata": {
+            "tags": [],
+            "concepts": []
+          },
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "thw7s22mm0x1"
+              }
+            },
+            "id": "51724e7jPUF8F4BxusClxH",
+            "type": "Entry",
+            "createdAt": "2025-03-25T09:49:18.111Z",
+            "updatedAt": "2025-03-25T09:49:18.111Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "publishedVersion": 7,
+            "revision": 1,
+            "contentType": {
+              "sys": {
+                "type": "Link",
+                "linkType": "ContentType",
+                "id": "homeNav"
+              }
+            },
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "My Portfolio: Selected Video Stories",
+            "image": {
+              "metadata": {
+                "tags": [],
+                "concepts": []
+              },
+              "sys": {
+                "space": {
+                  "sys": {
+                    "type": "Link",
+                    "linkType": "Space",
+                    "id": "thw7s22mm0x1"
+                  }
+                },
+                "id": "2rSJsZ4d1E27wuj8DnYhG4",
+                "type": "Asset",
+                "createdAt": "2025-02-10T21:12:32.024Z",
+                "updatedAt": "2025-02-10T21:12:32.024Z",
+                "environment": {
+                  "sys": {
+                    "id": "master",
+                    "type": "Link",
+                    "linkType": "Environment"
+                  }
+                },
+                "publishedVersion": 3,
+                "revision": 1,
+                "locale": "en-US"
+              },
+              "fields": {
+                "title": "P1000959",
+                "description": "",
+                "file": {
+                  "url": "//images.ctfassets.net/thw7s22mm0x1/2rSJsZ4d1E27wuj8DnYhG4/acc54ed16c411c20b6a9476246c36d1e/P1000959.JPG",
+                  "details": {
+                    "size": 3047424,
+                    "image": {
+                      "width": 2560,
+                      "height": 1920
+                    }
+                  },
+                  "fileName": "P1000959.JPG",
+                  "contentType": "image/jpeg"
+                }
+              }
+            },
+            "link": "/portfolio",
+            "cover": "//images.ctfassets.net/thw7s22mm0x1/2rSJsZ4d1E27wuj8DnYhG4/acc54ed16c411c20b6a9476246c36d1e/P1000959.JPG"
+          }
+        },
+        {
+          "metadata": {
+            "tags": [],
+            "concepts": []
+          },
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "thw7s22mm0x1"
+              }
+            },
+            "id": "1PRRENp3b3zrEpBmvvz5kh",
+            "type": "Entry",
+            "createdAt": "2025-03-25T09:49:18.199Z",
+            "updatedAt": "2025-03-25T09:49:18.199Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "publishedVersion": 4,
+            "revision": 1,
+            "contentType": {
+              "sys": {
+                "type": "Link",
+                "linkType": "ContentType",
+                "id": "homeNav"
+              }
+            },
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "Wanderlust: My Travels Adventures",
+            "image": {
+              "metadata": {
+                "tags": [],
+                "concepts": []
+              },
+              "sys": {
+                "space": {
+                  "sys": {
+                    "type": "Link",
+                    "linkType": "Space",
+                    "id": "thw7s22mm0x1"
+                  }
+                },
+                "id": "4NTaTi6cVzq9ix1wezHrMF",
+                "type": "Asset",
+                "createdAt": "2025-02-10T21:05:16.647Z",
+                "updatedAt": "2025-02-10T21:05:16.647Z",
+                "environment": {
+                  "sys": {
+                    "id": "master",
+                    "type": "Link",
+                    "linkType": "Environment"
+                  }
+                },
+                "publishedVersion": 3,
+                "revision": 1,
+                "locale": "en-US"
+              },
+              "fields": {
+                "title": "STyria 4",
+                "description": "",
+                "file": {
+                  "url": "//images.ctfassets.net/thw7s22mm0x1/4NTaTi6cVzq9ix1wezHrMF/6ba383a9be959895f6191261b2af7dcf/STyria_4.jpeg",
+                  "details": {
+                    "size": 937956,
+                    "image": {
+                      "width": 2500,
+                      "height": 1875
+                    }
+                  },
+                  "fileName": "STyria 4.jpeg",
+                  "contentType": "image/jpeg"
+                }
+              }
+            },
+            "link": "/travels",
+            "cover": "//images.ctfassets.net/thw7s22mm0x1/4NTaTi6cVzq9ix1wezHrMF/6ba383a9be959895f6191261b2af7dcf/STyria_4.jpeg"
+          }
+        },
+        {
+          "metadata": {
+            "tags": [],
+            "concepts": []
+          },
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "thw7s22mm0x1"
+              }
+            },
+            "id": "Bh7BgJJ0x6CNarV2jO67K",
+            "type": "Entry",
+            "createdAt": "2025-03-25T09:49:18.156Z",
+            "updatedAt": "2025-03-25T09:49:18.156Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "publishedVersion": 6,
+            "revision": 1,
+            "contentType": {
+              "sys": {
+                "type": "Link",
+                "linkType": "ContentType",
+                "id": "homeNav"
+              }
+            },
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "Marathon Mindset: Running is my Rhythm",
+            "image": {
+              "metadata": {
+                "tags": [],
+                "concepts": []
+              },
+              "sys": {
+                "space": {
+                  "sys": {
+                    "type": "Link",
+                    "linkType": "Space",
+                    "id": "thw7s22mm0x1"
+                  }
+                },
+                "id": "1gwWPNhVET1lN2fB9SOI24",
+                "type": "Asset",
+                "createdAt": "2025-02-05T21:54:05.936Z",
+                "updatedAt": "2025-02-05T21:54:05.936Z",
+                "environment": {
+                  "sys": {
+                    "id": "master",
+                    "type": "Link",
+                    "linkType": "Environment"
+                  }
+                },
+                "publishedVersion": 3,
+                "revision": 1,
+                "locale": "en-US"
+              },
+              "fields": {
+                "title": "CIMG9043",
+                "description": "",
+                "file": {
+                  "url": "//images.ctfassets.net/thw7s22mm0x1/1gwWPNhVET1lN2fB9SOI24/8f5adc5252abf9d8f14d83fd7ec0ccc1/CIMG9043.JPG",
+                  "details": {
+                    "size": 229403,
+                    "image": {
+                      "width": 1728,
+                      "height": 2304
+                    }
+                  },
+                  "fileName": "CIMG9043.JPG",
+                  "contentType": "image/jpeg"
+                }
+              }
+            },
+            "link": "/runs",
+            "cover": "//images.ctfassets.net/thw7s22mm0x1/1gwWPNhVET1lN2fB9SOI24/8f5adc5252abf9d8f14d83fd7ec0ccc1/CIMG9043.JPG"
+          }
+        }
+      ]
+    }
+  }
+]

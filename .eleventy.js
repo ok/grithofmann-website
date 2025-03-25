@@ -1,3 +1,5 @@
+import eleventyPluginMarkdown from "@jgarber/eleventy-plugin-markdown";
+
 export default function(eleventyConfig) {
   eleventyConfig.setInputDirectory("src");
   eleventyConfig.setOutputDirectory("dist");
@@ -6,4 +8,7 @@ export default function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/css");
   eleventyConfig.addPassthroughCopy({ "src/public": "." });
   eleventyConfig.addWatchTarget("**/*.(png|jpeg|webp|js)");
+
+  // Add Markdown plugin
+  eleventyConfig.addPlugin(eleventyPluginMarkdown);
 };

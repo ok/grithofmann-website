@@ -1,9 +1,37 @@
 ---
+pagination:
+  data: cf-pages  # _data/cf-pages.json
+  size: 1
+  alias: pages
+
 layout: base.liquid
 title: Grit Hofmann
 ---
     <section class="content">
-      <p class="is-size-5">I'm a journalist for Deutsche Welle and a sports fanatic, who loves to run marathons around the world.</p>
+      <p class="is-size-5">{{ pages.fields.text | markdown }}</p>
     </section>
 
-{% render "_collections.liquid", collections: cf-collections %}
+    <section class="content mt-5">
+      <div class="container fixed-grid has-2-cols has-1-cols-mobile">
+        <div class="grid is-col-min-16 is-gap-3">
+        {%- for link in pages.fields.links %}
+          <div class="cell">
+            <div class="card">
+              <div class="card-content">
+                <div class="card-image is-overflow-hidden">
+                  <a href="{{ link.fields.link }}">
+                    <figure class="image cover is-1by1">
+                      <img class="image" src="{{ link.fields.cover }}" alt="{{ link.fields.title }}"/>
+                    </figure>
+                  </a>
+                </div>
+              </div>
+              <footer class="card-footer has-background-white">
+                <p class="card-footer-item is-4">{{ link.fields.title }}</p>
+              </footer>
+            </div>
+          </div>
+        {%- endfor %}
+        </div>
+      </div>
+    </section>
