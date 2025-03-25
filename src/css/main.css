@@ -28,6 +28,10 @@ div.canvas{
   }
 }
 
+.navbar-brand .navbar-item:hover {
+  background-color: transparent;
+}
+
 .navbar-menu .navbar-item:hover {
   text-decoration: underline;
   background-color: transparent;

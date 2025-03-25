@@ -23,12 +23,6 @@
       "url": "runs",
       "header": true,
       "type": "gallery"
-    },
-    {
-      "title": "Contact",
-      "url": "contact",
-      "header": true,
-      "type": "page"
     }
   ]
 }
