@@ -28,6 +28,12 @@ div.canvas{
   }
 }
 
+@media (min-width: 1024px) {
+  .is-justify-content-flex-end-tablet {
+    justify-content: flex-end !important;
+  }
+}
+
 .navbar-brand .navbar-item:hover {
   background-color: transparent;
 }
