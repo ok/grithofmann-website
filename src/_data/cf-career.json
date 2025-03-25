@@ -1,0 +1,42 @@
+[
+  {
+    "metadata": {
+      "tags": [],
+      "concepts": []
+    },
+    "sys": {
+      "space": {
+        "sys": {
+          "type": "Link",
+          "linkType": "Space",
+          "id": "thw7s22mm0x1"
+        }
+      },
+      "id": "4reFvRraK5oH87pdsmjvqO",
+      "type": "Entry",
+      "createdAt": "2025-03-25T12:22:37.413Z",
+      "updatedAt": "2025-03-25T12:22:37.413Z",
+      "environment": {
+        "sys": {
+          "id": "master",
+          "type": "Link",
+          "linkType": "Environment"
+        }
+      },
+      "publishedVersion": 5,
+      "revision": 1,
+      "contentType": {
+        "sys": {
+          "type": "Link",
+          "linkType": "ContentType",
+          "id": "page"
+        }
+      },
+      "locale": "en-US"
+    },
+    "fields": {
+      "title": "Career",
+      "text": "Journalism meets innovation here — where creative storytelling, smart strategy, and user-centric product development come together.\n\nAt Deutsche Welle, Germany’s international broadcaster, I’ve worn many hats — from creating impactful stories and leading editorial work on video formats to collaborating in cross-functional teams and driving strategic and digital product development.\n- Video reporter and editor\n- Program and Portfolio Manager\n- Owner Product Development Process  \n\nMy professional toolkit combines media expertise with modern management skills.\n- Storytelling & Video Production\n- Strategic Portfolio Management, \n- Journalistic Product Management\n- Agile Methodologies\n- Workshop Facilitation & Training\n\nCurious by nature, I keep learning to stay ahead in a fast-changing media world.\n- Coding for Journalists\n- Digital Product Management\n- AI Product Management\n- Project Management\n- Prompting Essentials"
+    }
+  }
+]

@@ -105,10 +105,10 @@ function writeTravelsCollection (collections) {
 };
 
 // Post processing for all collections
-function processPage(pages) {
+function processPage(pages, title) {
   console.log(`✅ Processing all pages!`);
   pages.map(function(page) {
-    page.fields.links.map(function(link) {
+    page.fields.links?.map(function(link) {
       const coverPhoto = link.fields.image;
 
       if (coverPhoto) {
@@ -118,6 +118,16 @@ function processPage(pages) {
     return page.fields;
   });
   return pages;
+};
+
+// Filter and store all travel collections
+function storePage (pages, title) {
+  console.log(`✅ Processing ${title} page!`);
+  const filePath = `./src/_data/cf-${title.toLowerCase()}.json`;
+
+  let page = pages.filter((page) => page.fields.title === title);
+  writeFile(filePath, JSON.stringify(page, null, 2));
+  console.log(`✅ ${title} collection saved to ${filePath}`);
 };
 
 async function main() {
@@ -133,8 +143,10 @@ async function main() {
 
   // Fetch Pages from CF and store clean version
   const pages = await fetchContent("page"); // Wait for fetch to complete
-  const processedPages = processPage(pages);
-  await storeContent(processedPages, "pages");
+  const processedHomepage = processPage(pages, "Homepage");
+  await storePage(processedHomepage, "Homepage");
+  const processedCareer = processPage(pages, "Career");
+  await storePage(processedHomepage, "Career");
 }
 
 main(); // Run the async function
