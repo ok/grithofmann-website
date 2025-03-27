@@ -10,30 +10,6 @@ div.canvas{
   padding: 75px;
 }
 
-@media only screen and (max-width: 750px) {
-  div.canvas {
-      margin: 0 auto;
-      padding: 20px;
-      padding-top: 30px;
-      box-shadow: 0;
-  }
-}
-
-@media screen and (max-width: 1023px) {
-  .navbar-menu {
-    box-shadow: none;
-    border: 1px;
-    border-color: black;
-    padding-top: 20px;
-  }
-}
-
-@media (min-width: 1024px) {
-  .is-justify-content-flex-end-tablet {
-    justify-content: flex-end !important;
-  }
-}
-
 .navbar-brand .navbar-item:hover {
   background-color: transparent;
 }
@@ -51,6 +27,15 @@ div.canvas{
 .image {
   object-fit: cover;
   transition: all .2s ease-out;
+}
+
+/* adjustment to images from markdown */
+section.md-image img { 
+  max-width: 60%;
+  height: auto;
+  border-radius: 0px;
+  margin: 1rem 0;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
 }
 
 .card {
@@ -95,4 +80,34 @@ div.canvas{
 
 .footer {
   padding: 2rem;
+}
+
+@media only screen and (max-width: 750px) {
+  div.canvas {
+      margin: 0 auto;
+      padding: 20px;
+      padding-top: 30px;
+      box-shadow: 0;
+  }
+  section.md-image img {
+    max-width: 100%;
+  }
+}
+
+@media screen and (max-width: 1023px) {
+  .navbar-menu {
+    box-shadow: none;
+    border: 1px;
+    border-color: black;
+    padding-top: 20px;
+  }
+  section.md-image img {
+    max-width: 100%;
+  }
+}
+
+@media (min-width: 1024px) {
+  .is-justify-content-flex-end-tablet {
+    justify-content: flex-end !important;
+  }
 }

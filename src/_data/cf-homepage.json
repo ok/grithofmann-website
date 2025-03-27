@@ -15,7 +15,7 @@
       "id": "23bWU4D2yAH7vOhtHERovo",
       "type": "Entry",
       "createdAt": "2025-03-25T09:49:18.183Z",
-      "updatedAt": "2025-03-25T09:49:18.183Z",
+      "updatedAt": "2025-03-26T15:19:55.725Z",
       "environment": {
         "sys": {
           "id": "master",
@@ -23,8 +23,8 @@
           "linkType": "Environment"
         }
       },
-      "publishedVersion": 15,
-      "revision": 1,
+      "publishedVersion": 17,
+      "revision": 2,
       "contentType": {
         "sys": {
           "type": "Link",
@@ -36,7 +36,7 @@
     },
     "fields": {
       "title": "Homepage",
-      "text": "Raised south of Berlin and shaped by Germany’s reunification, I’ve built my path from journalist and video reporter to program and portfolio manager at Deutsche Welle, Germany’s international broadcaster. My work spans editorial leadership on video shows, cross-functional collaboration, and digital product development — always driven by a passion to learn and build.\n\nTravel is one of my greatest passions — it fuels my curiosity, broadens my perspective, and inspires the stories I tell. Whether on assignment or off the beaten path, I’m always looking for new angles, new ideas, and new horizons.\nMarathon running keeps me grounded — a reminder that discipline, endurance, and personal growth are at the heart of everything I do.\n\nI live in Berlin with my partner and our son.",
+      "text": "Raised south of Berlin and shaped by Germany’s reunification, I’ve built my path from journalist and video reporter to program and portfolio manager at Deutsche Welle, Germany’s international broadcaster. My work spans editorial leadership on video shows, cross-functional collaboration, and digital product development — always driven by a passion to learn and build.\n\n![IMG 2342](//images.ctfassets.net/thw7s22mm0x1/2mAH3NbP8VLauo3v4RRa3D/a856d66953904e23462fcef7942a4584/IMG_2342.JPG)\n\nTravel is one of my greatest passions — it fuels my curiosity, broadens my perspective, and inspires the stories I tell. Whether on assignment or off the beaten path, I’m always looking for new angles, new ideas, and new horizons.\nMarathon running keeps me grounded — a reminder that discipline, endurance, and personal growth are at the heart of everything I do.\n\nI live in Berlin with my partner and our son.",
       "links": [
         {
           "metadata": {

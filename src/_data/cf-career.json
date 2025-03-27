@@ -15,7 +15,7 @@
       "id": "4reFvRraK5oH87pdsmjvqO",
       "type": "Entry",
       "createdAt": "2025-03-25T12:22:37.413Z",
-      "updatedAt": "2025-03-25T21:39:01.071Z",
+      "updatedAt": "2025-03-27T10:24:41.276Z",
       "environment": {
         "sys": {
           "id": "master",
@@ -23,8 +23,8 @@
           "linkType": "Environment"
         }
       },
-      "publishedVersion": 8,
-      "revision": 2,
+      "publishedVersion": 13,
+      "revision": 3,
       "contentType": {
         "sys": {
           "type": "Link",
@@ -36,7 +36,7 @@
     },
     "fields": {
       "title": "Career",
-      "text": "Journalism meets innovation here — where creative storytelling, smart strategy, and user-centric product development come together.\n\n![IMG 2342](//images.ctfassets.net/thw7s22mm0x1/2mAH3NbP8VLauo3v4RRa3D/a856d66953904e23462fcef7942a4584/IMG_2342.JPG)\n\nAt Deutsche Welle, Germany’s international broadcaster, I’ve worn many hats — from creating impactful stories and leading editorial work on video formats to collaborating in cross-functional teams and driving strategic and digital product development.\n- Video reporter and editor\n- Program and Portfolio Manager\n- Owner Product Development Process  \n\nMy professional toolkit combines media expertise with modern management skills.\n- Storytelling & Video Production\n- Strategic Portfolio Management, \n- Journalistic Product Management\n- Agile Methodologies\n- Workshop Facilitation & Training\n\n![P1000959](//images.ctfassets.net/thw7s22mm0x1/2rSJsZ4d1E27wuj8DnYhG4/acc54ed16c411c20b6a9476246c36d1e/P1000959.JPG)\n\nCurious by nature, I keep learning to stay ahead in a fast-changing media world.\n- Coding for Journalists\n- Digital Product Management\n- AI Product Management\n- Project Management\n- Prompting Essentials"
+      "text": "Journalism meets innovation here — where creative storytelling, smart strategy, and user-centric product development come together.\n\n![Grit mit Kamera](//images.ctfassets.net/thw7s22mm0x1/4o9eKTVUHu1W5a0ojYiM7r/29c078676f301abaa94c26c3c6161057/Grit_beim_Drehen.jpg)\n\nAt Deutsche Welle, Germany’s international broadcaster, I’ve worn many hats — from creating impactful stories and leading editorial work on video formats to collaborating in cross-functional teams and driving strategic and digital product development.\n- Video reporter and editor\n- Program and Portfolio Manager\n- Owner Product Development Process  \n\nMy professional toolkit combines media expertise with modern management skills.\n- Storytelling & Video Production\n- Strategic Portfolio Management, \n- Journalistic Product Management\n- Agile Methodologies\n- Workshop Facilitation & Training\n\n![Grit Award](//images.ctfassets.net/thw7s22mm0x1/7FXgFKsKWYTpmCF7dy7nbE/2566b818f836b6b17bae55e616a62d32/Foto_3b_Careerseite_Award.jpg)\n\nCurious by nature, I keep learning to stay ahead in a fast-changing media world.\n- Coding for Journalists\n- Digital Product Management\n- AI Product Management\n- Project Management\n- Prompting Essentials"
     }
   }
 ]
