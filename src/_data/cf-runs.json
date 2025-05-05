@@ -721,7 +721,7 @@
             "id": "1gwWPNhVET1lN2fB9SOI24",
             "type": "Asset",
             "createdAt": "2025-02-05T21:54:05.936Z",
-            "updatedAt": "2025-02-05T21:54:05.936Z",
+            "updatedAt": "2025-05-05T04:29:06.205Z",
             "environment": {
               "sys": {
                 "id": "master",
@@ -729,23 +729,23 @@
                 "linkType": "Environment"
               }
             },
-            "publishedVersion": 3,
-            "revision": 1,
+            "publishedVersion": 7,
+            "revision": 2,
             "locale": "en-US"
           },
           "fields": {
             "title": "CIMG9043",
             "description": "",
             "file": {
-              "url": "//images.ctfassets.net/thw7s22mm0x1/1gwWPNhVET1lN2fB9SOI24/8f5adc5252abf9d8f14d83fd7ec0ccc1/CIMG9043.JPG",
+              "url": "//images.ctfassets.net/thw7s22mm0x1/1gwWPNhVET1lN2fB9SOI24/33b7a7450bf02da6a4c91ed13d04c441/Berlin_marathon.jpg",
               "details": {
-                "size": 229403,
+                "size": 357228,
                 "image": {
-                  "width": 1728,
-                  "height": 2304
+                  "width": 844,
+                  "height": 1280
                 }
               },
-              "fileName": "CIMG9043.JPG",
+              "fileName": "Berlin marathon.jpg",
               "contentType": "image/jpeg"
             }
           }

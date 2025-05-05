@@ -107,7 +107,7 @@
             "id": "2rSJsZ4d1E27wuj8DnYhG4",
             "type": "Asset",
             "createdAt": "2025-02-10T21:12:32.024Z",
-            "updatedAt": "2025-02-10T21:12:32.024Z",
+            "updatedAt": "2025-05-05T04:25:51.424Z",
             "environment": {
               "sys": {
                 "id": "master",
@@ -115,23 +115,23 @@
                 "linkType": "Environment"
               }
             },
-            "publishedVersion": 3,
-            "revision": 1,
+            "publishedVersion": 7,
+            "revision": 2,
             "locale": "en-US"
           },
           "fields": {
             "title": "P1000959",
             "description": "",
             "file": {
-              "url": "//images.ctfassets.net/thw7s22mm0x1/2rSJsZ4d1E27wuj8DnYhG4/acc54ed16c411c20b6a9476246c36d1e/P1000959.JPG",
+              "url": "//images.ctfassets.net/thw7s22mm0x1/2rSJsZ4d1E27wuj8DnYhG4/af74acf1dca5f497bcc55fd9a2fb8952/9CF3C12D-A4DD-4948-A53B-AC963F2CA941_1_101_a.jpeg",
               "details": {
-                "size": 3047424,
+                "size": 417285,
                 "image": {
-                  "width": 2560,
-                  "height": 1920
+                  "width": 1280,
+                  "height": 959
                 }
               },
-              "fileName": "P1000959.JPG",
+              "fileName": "9CF3C12D-A4DD-4948-A53B-AC963F2CA941_1_101_a.jpeg",
               "contentType": "image/jpeg"
             }
           }
@@ -197,7 +197,7 @@
             "id": "3TtsoyJUPeXd5U6azWhMCY",
             "type": "Asset",
             "createdAt": "2025-02-10T21:26:37.721Z",
-            "updatedAt": "2025-02-10T21:26:37.721Z",
+            "updatedAt": "2025-05-05T04:23:31.714Z",
             "environment": {
               "sys": {
                 "id": "master",
@@ -205,23 +205,23 @@
                 "linkType": "Environment"
               }
             },
-            "publishedVersion": 3,
-            "revision": 1,
+            "publishedVersion": 11,
+            "revision": 3,
             "locale": "en-US"
           },
           "fields": {
             "title": "P1010039",
             "description": "",
             "file": {
-              "url": "//images.ctfassets.net/thw7s22mm0x1/3TtsoyJUPeXd5U6azWhMCY/dc54e9973e5ea3df840d476a78da770f/P1010039.JPG",
+              "url": "//images.ctfassets.net/thw7s22mm0x1/3TtsoyJUPeXd5U6azWhMCY/668ee263b7ad13e89d832a1c063dfe77/vor_dem_Flieger_stehend.jpg",
               "details": {
-                "size": 3173376,
+                "size": 501290,
                 "image": {
-                  "width": 2560,
-                  "height": 1920
+                  "width": 2000,
+                  "height": 2000
                 }
               },
-              "fileName": "P1010039.JPG",
+              "fileName": "vor+dem+Flieger+stehend.jpg",
               "contentType": "image/jpeg"
             }
           }
